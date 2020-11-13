@@ -6,10 +6,8 @@ excerpt: 'This paper discusses cloud radiative processes in the UTLS above tropi
 date: 2020-06-18
 venue: 'Journal 1'
 paperurl: 'https://journals.ametsoc.org/jcli/article/33/15/6361/345316/Quantifying-the-Radiative-Impact-of-Clouds-on'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Rivoire, L., Birner, T., Knaff, J.A. and Tourville, N., 2020. Quantifying the radiative impact of clouds on tropopause layer cooling in tropical cyclones. Journal of Climate, (2020).'
 ---
 
 
 [Download paper here](https://journals.ametsoc.org/jcli/article/33/15/6361/345316/Quantifying-the-Radiative-Impact-of-Clouds-on)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

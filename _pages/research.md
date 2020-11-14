@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ### Tropical cyclones in future climates
 <table border="0">
  <tr>

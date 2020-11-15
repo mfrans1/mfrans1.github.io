@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 ### Tropical cyclones in future climates
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](bio-pic.png)
 
 ### Sensitivity of deep convective clouds to their thermal environment
 

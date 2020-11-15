@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+See my full CV [here](../files/CV.pdf)
+
 Education
 ======
 * Ph.D in Atmospheric Science, Colorado State University, 2020

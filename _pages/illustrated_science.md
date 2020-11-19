@@ -12,3 +12,5 @@ author_profile: true
 {% endfor %}
 
 Check back in later! I am currently developing this page.
+
+Illustrated stories about my research interests (and more) should appear here soon!

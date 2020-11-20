@@ -11,13 +11,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Images of our planet seen from space, for your enjoyment.
+Our planet seen from space, for your enjoyment.
 
 <html>
 <head>
  <style>
  #desc {
-   font-size: 10px;
+   font-size: 1px;
 }
 
 div.gallery {

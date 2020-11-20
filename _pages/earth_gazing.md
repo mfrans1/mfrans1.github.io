@@ -11,7 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -70,20 +69,20 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_5terre.jpg">
-      <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+    <a target="_blank" href="images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png">
+      <img src="images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">Sun glint over the Indian ocean</div>
   </div>
 </div>
 
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+    <a target="_blank" href="">
+      <img src="" alt="Forest" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc">coming soon</div>
   </div>
 </div>
 

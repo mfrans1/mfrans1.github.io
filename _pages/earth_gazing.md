@@ -97,6 +97,16 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png">
+      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png" alt="cloud waves" width="600" height="400">
+    </a>
+    <div id="desc">Waves in clouds near Hawai'i</div>
+  </div>
+</div>
+
+
 <div class="clearfix"></div>
 
 </body>

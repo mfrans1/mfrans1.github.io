@@ -15,7 +15,7 @@ author_profile: true
 <head>
  <style>
  #desc {
-   font-size: 24px;
+   font-size: 10px;
 }
 
 div.gallery {
@@ -68,8 +68,7 @@ div.desc {
 </head>
 <body>
 
-<h4>Have you lost track of time contemplating the magical, immersive infinity of the night sky?</h4>
-<h4>I have, as I often do when Earth gazing. Here are a few pictures of our planet seen from space that I find fascinating.</h4>
+<h3>Have you lost track of time contemplating the magical, immersive infinity of the night sky? I have, as I often do when Earth gazing. Here are a few pictures of our planet seen from space that I find fascinating.</h3>
 
 <div class="responsive">
   <div class="gallery">

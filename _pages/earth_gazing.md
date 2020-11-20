@@ -90,100 +90,10 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201118232031.png">
+      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201118232031.png" alt="vortex street" width="600" height="400">
     </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="coming soon" width="600" height="400">
-    </a>
-    <div id="desc">coming soon</div>
+    <div id="desc">Vortex street south of Isla Guadalupe</div>
   </div>
 </div>
 

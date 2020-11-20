@@ -75,7 +75,7 @@ div.desc {
     <a target="_blank" href="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png">
       <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint" width="600" height="400">
     </a>
-    <div class="desc">Sun glint over the Indian ocean</div>
+    <div id="desc">Sun glint over the Indian ocean</div>
   </div>
 </div>
 

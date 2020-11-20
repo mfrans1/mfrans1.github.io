@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Images of our planet seen from space, for your enjoyment.
+
 <html>
 <head>
  <style>
@@ -67,8 +69,6 @@ div.desc {
 </style>
 </head>
 <body>
-
-<h3>Have you lost track of time contemplating the magical, immersive infinity of the night sky? I have, as I often do when Earth gazing. Here are a few pictures of our planet seen from space that I find fascinating.</h3>
 
 <div class="responsive">
   <div class="gallery">

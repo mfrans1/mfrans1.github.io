@@ -17,7 +17,7 @@ Our planet seen from space, for your perusing and enjoyment.
 <head>
  <style>
  #desc {
-   font-size: 1px;
+   font-size: 10px;
 }
 
 div.gallery {
@@ -79,13 +79,12 @@ div.desc {
   </div>
 </div>
 
-
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="">
-      <img src="" alt="Forest" width="600" height="400">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20170905104534.png.png">
+      <img src="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20170905104534.png.png" alt="irma" width="600" height="400">
     </a>
-    <div class="desc">coming soon</div>
+    <div id="desc">The sun rises over major hurricane Irma as it heads for the Caribbean</div>
   </div>
 </div>
 

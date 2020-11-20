@@ -2,7 +2,7 @@
 layout: archive
 title: "Illustrated Science"
 permalink: /illustrated_science/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}

@@ -106,6 +106,15 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20201119200014.png">
+      <img src="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20201119200014.png" alt="swirls" width="600" height="400">
+    </a>
+    <div id="desc">Swirly clouds in the south Pacific</div>
+  </div>
+</div>
+
 
 <div class="clearfix"></div>
 

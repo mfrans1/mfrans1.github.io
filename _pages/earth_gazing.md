@@ -17,7 +17,7 @@ Our planet seen from space, for your perusing and enjoyment.
 <head>
  <style>
  #desc {
-   font-size: 10px;
+   font-size: 15px;
 }
 
 div.gallery {
@@ -84,25 +84,106 @@ div.desc {
     <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20170905104534.png">
       <img src="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20170905104534.png" alt="irma" width="600" height="400">
     </a>
-    <div id="desc">The sun rises over major hurricane Irma as it heads for the Caribbean</div>
+    <div id="desc">Sunrise over hurricane Irma as it heads for the Caribbean</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div id="desc">coming soon</div>
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="">
+      <img src="" alt="coming soon" width="600" height="400">
+    </a>
+    <div id="desc">coming soon</div>
   </div>
 </div>
 

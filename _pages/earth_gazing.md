@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Our planet seen from space, for your enjoyment.
+Our planet seen from space, for your perusing and enjoyment.
 
 <html>
 <head>

@@ -13,7 +13,11 @@ author_profile: true
 
 <html>
 <head>
-<style>
+ <style>
+ #desc {
+   font-size: 24px;
+}
+
 div.gallery {
   border: 1px solid #ccc;
 }
@@ -64,8 +68,8 @@ div.desc {
 </head>
 <body>
 
-<h2>Responsive Image Gallery</h2>
-<h4>Resize the browser window to see the effect.</h4>
+<h4>Have you lost track of time contemplating the magical, immersive infinity of the night sky?</h4>
+<h4>I have, as I often do when Earth gazing. Here are a few pictures of our planet seen from space that I find fascinating.</h4>
 
 <div class="responsive">
   <div class="gallery">

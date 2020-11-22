@@ -99,6 +99,15 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider - -goes-17 - -full_disk - -geocolor-opacity-100 - -20201119151031-20201119220031.gif">
+      <img src="../images/gallery/cira-rammb-slider - -goes-17 - -full_disk - -geocolor-opacity-100 - -20201119151031-20201119220031.gif" alt="vortex_street_gif" width="600" height="400">
+    </a>
+    <div id="desc">Vortex street south of Isla Guadalupe</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png">
       <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png" alt="" width="600" height="400">
     </a>

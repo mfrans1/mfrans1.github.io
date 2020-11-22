@@ -115,6 +115,14 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif">
+      <img src="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif" alt="" width="600" height="400">
+    </a>
+    <div id="desc">Knife cut waves near Australia</div>
+  </div>
+</div>
 
 <div class="clearfix"></div>
 

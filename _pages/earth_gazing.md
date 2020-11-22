@@ -91,7 +91,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201118232031.png">
-      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201118232031.png" alt="vortex street" width="600" height="400">
+      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201118232031.png" alt="vortex_street" width="600" height="400">
     </a>
     <div id="desc">Vortex street south of Isla Guadalupe</div>
   </div>
@@ -100,7 +100,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png">
-      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png" alt="cloud waves" width="600" height="400">
+      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png" alt="" width="600" height="400">
     </a>
     <div id="desc">Waves in clouds near Hawai'i</div>
   </div>
@@ -109,7 +109,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20201119200014.png">
-      <img src="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20201119200014.png" alt="swirls" width="600" height="400">
+      <img src="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20201119200014.png" alt="" width="600" height="400">
     </a>
     <div id="desc">Swirly clouds in the south Pacific</div>
   </div>
@@ -118,9 +118,9 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif">
-      <img src="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif" alt="" width="600" height="400">
+      <img src="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif" alt="knife cuts" width="600" height="400">
     </a>
-    <div id="desc">Knife cut waves near Australia</div>
+    <div id="desc">"Knife cut" waves near Australia</div>
   </div>
 </div>
 

@@ -133,6 +133,15 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/cold_pools_N_autralia.gif">
+      <img src="../images/gallery/cold_pools_N_autralia.gif" alt="cold pools" width="600" height="400">
+    </a>
+    <div id="desc">Cold pools in Northern Australia</div>
+  </div>
+</div>
+
 <div class="clearfix"></div>
 
 </body>

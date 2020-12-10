@@ -143,14 +143,6 @@ div.desc {
   </div>
 </div>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="../images/gallery/stationary_waves_noreaster.gif">
-      <img src="../images/gallery/stationary_waves_noreaster.gif" alt="stationary waves" width="600" height="400">
-    </a>
-    <div id="desc">Stationary waves in the cloud canopy (USA)</div>
-  </div>
-</div>
 
 <div class="responsive">
   <div class="gallery">

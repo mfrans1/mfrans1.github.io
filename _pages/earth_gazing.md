@@ -126,15 +126,6 @@ div.desc {
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif">
-      <img src="../images/gallery/cira-rammb-slider - -himawari - -full_disk - -geocolor-opacity-100 - -20201121190000-20201121235000.gif" alt="knife cuts" width="600" height="400">
-    </a>
-    <div id="desc">"Knife cut" waves near Australia</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
     <a target="_blank" href="../images/gallery/cold_pools_N_australia.gif">
       <img src="../images/gallery/cold_pools_N_australia.gif" alt="cold pools" width="600" height="400">
     </a>
@@ -149,6 +140,24 @@ div.desc {
       <img src="../images/gallery/stationary_waves_noreaster.gif" alt="stationary waves" width="600" height="400">
     </a>
     <div id="desc">Stationary waves in the cloud canopy (USA)</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/stationary_waves_noreaster.gif">
+      <img src="../images/gallery/stationary_waves_noreaster.gif" alt="stationary waves" width="600" height="400">
+    </a>
+    <div id="desc">Stationary waves in the cloud canopy (USA)</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/pyrocu_australia.gif">
+      <img src="../images/gallery/pyrocu_australia.gif" alt="pyrocu" width="600" height="400">
+    </a>
+    <div id="desc">Pyrocumulus (Queensland, Australia)</div>
   </div>
 </div>
 

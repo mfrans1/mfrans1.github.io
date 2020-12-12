@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Louis, I am an atmospheric scientist.
+Hello! My name is Louis, I am an atmospheric scientist.
 
-I am currently a Postdoctoral Fellow in [Dr. Marianna Linz's group](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. Dr. Linz and I are interested in the circulation of the stratosphere, which we study using simulations of the Earth's atmosphere and measurements of its chemical composition from satellites, aircrafts and balloons.
+My research focuses on tropical convection: how it works, how it organizes into larger phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my research [here](https://lrivoire.github.io/research/).
 
-I am also interested in the dynamical and radiative processes that take place in the upper troposphere and lower stratosphere (~14-20 km altitude) near tropical convective systems. In particular, I am studying the cold, synoptic-scale signal that forms above intensifying hurricanes, which my collaborators and I call "tropopause layer cooling" (and which I affectionately refer to as "TLC").
+I like spending time simply watching clouds! Some pictures are available here for your enjoyment: [Earth gazing](https://lrivoire.github.io/earth_gazing/). I also like talking about science with nonscientists, and my [Illustrated science](https://lrivoire.github.io/illustrated_science/) project (coming soon) aims to make my research more accessible to all.
 
-Click on the [Research](https://lrivoire.github.io/research/) tab to know more about my research interests. 

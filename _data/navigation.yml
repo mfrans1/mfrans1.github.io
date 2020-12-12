@@ -1,16 +1,18 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+    
   - title: "Research"
     url: /research/   
     
   - title: "Publications"
     url: /publications/
     
+  - title: "Earth gazing"
+    url: /earth_gazing/
+    
   - title: "Illustrated Science"
     url: /illustrated_science/   
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Earth gazing"
-    url: /earth_gazing/
+

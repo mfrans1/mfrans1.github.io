@@ -22,11 +22,6 @@ author_profile: true
   box-sizing: border-box;
 }
 
-body {
-  font-family: Arial;
-  font-size: 12px;
-}
-
 .container {
   position: relative;
   max-width: 1000px;

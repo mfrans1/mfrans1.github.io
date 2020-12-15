@@ -8,10 +8,13 @@ redirect_from:
 author_profile: true
 ---
 
+{% include base_path %}
+
+{% for post in site.research reversed %} {% include archive-single.html %} {% endfor %}
 
 <html>
 .parallax{
-    background-image: url("https://images.pexels.com/photos/349608/pexels-photo-349608.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    background-image: src="../images/landingpage.gif";
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;

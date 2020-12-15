@@ -51,7 +51,7 @@ body {
 <div class="container">
   <img src="../images/landingpage.gif" alt="landing" style="width:150%;">
   <div class="content">
-    <h1>Hello!</h1>
+    <h1>Hello! My name is Louis. I am an atmospheric scientist.</h1>
     <p>My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with <a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.
 
 The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of <a href="https://lrivoire.github.io/earthgazing/">Earthgazing</a>. I also like talking about science with nonscientists, and my href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.</p>

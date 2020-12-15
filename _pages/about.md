@@ -8,6 +8,40 @@ redirect_from:
 author_profile: true
 ---
 
+
+
+.parallax{
+    background-image: url("https://images.pexels.com/photos/349608/pexels-photo-349608.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+#header{
+  position: absolute;
+  z-index: 1000;
+  top: 200px;
+  left: 200px;
+}
+
+.text-box{
+	height: 600px;
+	padding: 50px;
+}
+@media only screen and (max-device-width: 1024px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
+
+.navbar {
+    margin-bottom: 0 !important;
+}
+
+
 {% include base_path %}
 
 {% for post in site.research reversed %}

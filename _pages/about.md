@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: ""
 permalink: /
 redirect_from: 
   - /about/

@@ -2,6 +2,9 @@
 layout: archive
 title: "About"
 permalink: /
+redirect_from: 
+  - /about/
+  - /about.html
 author_profile: false
 ---
 

@@ -24,12 +24,12 @@ author_profile: false
 
 body {
   font-family: Arial;
-  font-size: 17px;
+  font-size: 12px;
 }
 
 .container {
   position: relative;
-  max-width: 800px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -48,10 +48,8 @@ body {
 </head>
 <body>
 
-<h2>Responsive Image with Transparent Text</h2>
-
 <div class="container">
-  <img src="../images/landingpage.gif" alt="landing" style="width:100%;">
+  <img src="../images/landingpage.gif" alt="landing" style="width:150%;">
   <div class="content">
     <h1>Hello!</h1>
     <p>My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with <a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.

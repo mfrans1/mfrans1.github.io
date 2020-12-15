@@ -5,7 +5,7 @@ permalink: /
 redirect_from: 
   - /about/
   - /about.html
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
@@ -29,7 +29,7 @@ body {
 
 .container {
   position: relative;
-  max-width: 1400px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -38,7 +38,7 @@ body {
 .container .content {
   position: absolute;
   bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgb(1, 1, 1); /* Fallback color */
   background: rgba(1, 1, 1, 0.5); /* White background with 0.5 opacity */
   color: #f1f1f1;
   width: 100%;

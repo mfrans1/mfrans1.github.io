@@ -15,7 +15,6 @@ author_profile: false
 {% endfor %}
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   

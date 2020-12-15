@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-
+<html>
 .parallax{
     background-image: url("https://images.pexels.com/photos/349608/pexels-photo-349608.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
     min-height: 500px; 
@@ -28,9 +28,7 @@ author_profile: true
 <h1 id="header">Text</h1>
 <div class="parallax"></div>
 <div class="col-lg-12 text-box text-center">
-<h1>Restauraunt Heading</h1>
 </div>
 </body>
-
-
+</html>
 

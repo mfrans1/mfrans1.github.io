@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Earth gazing"
-permalink: /earth_gazing/
+title: "Earthgazing"
+permalink: /earthgazing/
 author_profile: true
 ---
 

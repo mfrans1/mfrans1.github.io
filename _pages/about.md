@@ -1,20 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "About"
 permalink: /
 author_profile: false
 redirect_from:
   - /about
   - /about.html
 ---
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-Our planet seen from space, for your perusing and enjoyment.
 
 <html>
 <head>

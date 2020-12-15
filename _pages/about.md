@@ -18,31 +18,42 @@ author_profile: false
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.container {
-  position: relative;
-  font-family: Arial;
+* {
+  box-sizing: border-box;
 }
 
-.text-block {
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
+
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
   position: absolute;
-  bottom: 20px;
-  right: 20px;
-  background-color: black;
-  color: white;
-  padding-left: 20px;
-  padding-right: 20px;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(1, 1, 1, 0.5); /* White background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
 }
 </style>
 </head>
 <body>
 
-<h2>Image Text Blocks</h2>
-<p>How to place text blocks over an image:</p>
+<h2>Responsive Image with Transparent Text</h2>
 
 <div class="container">
   <img src="../images/landingpage.gif" alt="landing" style="width:100%;">
-  <div class="text-block">
-    <h4>Hello! My name is Louis. I am an atmospheric scientist.</h4>
+  <div class="content">
+    <h1>Hello!</h1>
     <p>My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my [research](https://lrivoire.github.io/research/).
 
 The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of [Earth gazing](https://lrivoire.github.io/earth_gazing/). I also like talking about science with nonscientists, and my [Illustrated science](https://lrivoire.github.io/illustrated_science/) project (coming soon) aims to make my research more accessible to all.</p>
@@ -50,4 +61,5 @@ The Earth is a wonder of beauty and complexity and I like to extend the concept 
 </div>
 
 </body>
-</html> 
+</html>
+

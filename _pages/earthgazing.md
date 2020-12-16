@@ -162,6 +162,15 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/isolated_wave.png">
+      <img src="../images/gallery/isolated_wave.png" alt="isolated_wave" width="600" height="400">
+    </a>
+    <div id="desc">Isolated gravity wave (eastern Pacific)</div>
+  </div>
+</div>
+
 <div class="clearfix"></div>
 
 </body>

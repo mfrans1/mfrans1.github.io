@@ -171,6 +171,15 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/moon_glint.png">
+      <img src="../images/gallery/moon_glint.png" alt="moon_glint" width="600" height="400">
+    </a>
+    <div id="desc">Moonlight reflection (Isola d'Elba, Italy)</div>
+  </div>
+</div>
+
 <div class="clearfix"></div>
 
 </body>

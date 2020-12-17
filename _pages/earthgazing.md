@@ -180,6 +180,15 @@ div.desc {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/pinatubo_storm_limb.png">
+      <img src="../images/gallery/pinatubo_storm_limb.png" alt="pinatubo" width="600" height="400">
+    </a>
+    <div id="desc">Ash layers in the stratosphere above thunderstorms (Pinatubo eruption)</div>
+  </div>
+</div>
+
 <div class="clearfix"></div>
 
 </body>

@@ -58,15 +58,11 @@ redirect_from:
   -ms-transform: translate(-2%, -2%);
   transform: translate(-2%, -2%);
   text-align: center;
-  transition: 3s ease;
 }
 
-var disappear = $("#disappear");
-$("#text").hover(function(){
-    disappear.hide();
-}, function() {
-    disappear.show();
-});
+.text:hover {
+  display: none;
+}
 
 </style>
 </head>
@@ -74,7 +70,7 @@ $("#text").hover(function(){
 
 <div class="container">
   <img src="../images/landingpage_back.png" alt="wind magnitude" class="image">
-  <div class="text"><p id="text"><span id="disappear">hover me!</span>friend</p></div>
+  <div class="text"> hover me! </div>
   <div class="overlay">
     <img src="../images/landingpage_winds.gif" alt="wind vectors" class="image">
   </div>

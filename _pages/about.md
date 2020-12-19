@@ -18,7 +18,7 @@ redirect_from:
 <body>
   <div class="hover-animation">
   <img src="../images/landingpage.gif" alt="" class="img-back">
-  <img src="http://i.stack.imgur.com/Sesbh.jpg" alt="" class="img-front">
+  <img src="http://i.stack.imgur.com/Sjsbh.jpg" alt="" class="img-front">
   </div>
 </body>
 </html>

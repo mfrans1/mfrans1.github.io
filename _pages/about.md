@@ -14,6 +14,42 @@ redirect_from:
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+hello
+
+<html>
+<head>
+ <style>
+   .imageBox {
+  position: relative;
+  float: left;
+}
+
+.imageBox .hoverImg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: none;
+}
+
+.imageBox:hover .hoverImg {
+  display: block;
+}
+ </style>
+</head>
+  
+<body>
+  
+  <div class="imageBox">
+  <div class="imageInn">
+    <img src="../images/landingpage.gif" alt="Default Image">
+  </div>
+  <div class="hoverImg">
+    <img src="../images/bio-pic.png" alt="Profile Image">
+  </div>
+</div>
+</body>
+</html>
  
 ## Hello! My name is Louis and I am an atmospheric scientist.
 ![](../images/landingpage.gif)

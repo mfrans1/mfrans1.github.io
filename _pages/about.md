@@ -28,6 +28,7 @@ hello
 .imageBox .hoverImg {
   position: absolute;
   transition-delay: 2s;
+  opacity: 0.6;
   left: 0;
   top: 0;
   display: none;

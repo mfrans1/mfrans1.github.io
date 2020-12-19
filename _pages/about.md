@@ -30,6 +30,7 @@ redirect_from:
   display: block;
   width: 100%;
   height: auto;
+  box-shadow: 0 0 8px 8px white inset;
 }
 
 .overlay {
@@ -43,6 +44,7 @@ redirect_from:
   opacity: 0.15;
   transition: 2s ease;
   background-color: rgba(0,0,0,0);
+  box-shadow: 0 0 8px 8px white inset;
 }
 
 .container:hover .overlay {

@@ -41,12 +41,12 @@ redirect_from:
   height: 100%;
   width: 100%;
   opacity: 0.15;
-  transition: 3s ease;
+  transition: 2s ease;
   background-color: rgba(0,0,0,0);
 }
 
 .container:hover .overlay {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 .text {
@@ -71,7 +71,7 @@ redirect_from:
  
 <div class="container">
   <img src="../images/landingpage_back.png" alt="wind magnitude" class="image">
-  <div class="text">hover me</div>
+!<-- <div class="text">hover me</div> -->
   <div class="overlay">
     <img src="../images/landingpage_winds.gif" alt="wind vectors" class="image">
   </div>

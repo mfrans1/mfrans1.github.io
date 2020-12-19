@@ -60,9 +60,8 @@ redirect_from:
   transform: translate(-2%, -2%);
   text-align: center;
 }
-
-.text::after {
-   content: none;
+.container:hover .text {
+  opacity: 0;
 }
 
 </style>

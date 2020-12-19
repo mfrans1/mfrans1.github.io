@@ -61,9 +61,7 @@ redirect_from:
   text-align: center;
 }
 
-container:hover .text {
-  delete text;
-}
+text.no-after:after{content:none;}
 
 </style>
 </head>

@@ -35,6 +35,7 @@ redirect_from:
 }
 
 .imageBox:hover .hoverImg {
+  transition: 5s ease;
   display: block;
 }
  </style>

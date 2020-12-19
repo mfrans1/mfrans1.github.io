@@ -61,8 +61,8 @@ redirect_from:
   transition: 3s ease;
 }
 
-.text:hover {
-    opacity: 0;
+.disp:hover {
+    display: none;
 }
 
 </style>
@@ -71,7 +71,7 @@ redirect_from:
 
 <div class="container">
   <img src="../images/landingpage_back.png" alt="wind magnitude" class="image">
-  <div class="text">hover me!</div>
+  <div class="text"><p class="disp">hover me!</p></div>
   <div class="overlay">
     <img src="../images/landingpage_winds.gif" alt="wind vectors" class="image">
   </div>

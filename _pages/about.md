@@ -15,7 +15,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-hello
+## Hello! My name is Louis and I am an atmospheric scientist.
 
 <html>
 <head>
@@ -27,15 +27,15 @@ hello
 
 .imageBox .hoverImg {
   position: absolute;
-  opacity: 0.6;
+  opacity: 0.5;
   left: 0;
   top: 0;
+  transition: 5s ease;
   display: none;
 }
 
 .imageBox:hover .hoverImg {
   display: block;
-  transition-duration: 5s;
 }
  </style>
 </head>
@@ -52,9 +52,6 @@ hello
 </div>
 </body>
 </html>
- 
-## Hello! My name is Louis and I am an atmospheric scientist.
-![](../images/landingpage.gif)
 
 My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my [research](https://lrivoire.github.io/research/).
 

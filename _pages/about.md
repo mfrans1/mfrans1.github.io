@@ -61,7 +61,9 @@ redirect_from:
   text-align: center;
 }
 
-text.no-after:after{content:none;}
+.text::after {
+   content: none;
+}
 
 </style>
 </head>

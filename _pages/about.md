@@ -51,15 +51,20 @@ redirect_from:
 
 .text {
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  top: 2%;
+  left: 2%;
+  -webkit-transform: translate(-2%, -2%);
+  -ms-transform: translate(-2%, -2%);
+  transform: translate(-2%, -2%);
   text-align: center;
 }
+
+.text:hover {
+    display: none;
+}
+
 </style>
 </head>
 <body>

@@ -10,42 +10,41 @@ redirect_from:
   
  
 <html>
-  <head>
-    <link rel="stylesheet" href="index.css">
-  </head>
-
-  <div class="imageBox">
-
-    <div class="imageInn">
-      <img src="../images/landingpage.gif" alt="Profile Image">
-    </div>
-
-    <div class="hoverImg center">
-    <img src="../images/gallery/isolated_wave.png" alt="default image">
-    </div>
-
+<head>
+  <meta charset="UTF-8">
+  <title>Image Hover tutorial</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="hover-animation">
+  <img src="../images/landingpage.gif" alt="" class="img-back">
+  <img src="http://i.stack.imgur.com/Sesbh.jpg" alt="" class="img-front">
   </div>
+</body>
 </html>
 
-.imageBox {
+body{
+  background-color=#fff;
+}
+.hover-animation{
   position: relative;
-  float: left;
+  height: 400px;
+  width: 400px;
+  margin: 10% autop 0;
+  color: $fff;
 }
-
-.imageBox .hoverImg {
+.hover-animation img{
   position: absolute;
-  left: 0px;
-  top: 0px;
-  display: block;
-}
-
-.imageBox:hover .hoverImg {
-  display: block;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
+  width: 400px;
+  height: 400px;
+  transition: opacity 2s ease-in-out;
   opacity: 0.6;
-  transition: all 5s;
-    -webkit-transition: all 5s;
+}
+.hover-animation img.img-front:hover{
+  opacity: 0;
+  cursor: pointer;
 }
 
  

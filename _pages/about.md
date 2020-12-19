@@ -34,7 +34,7 @@ redirect_from:
 
 @keyframes changeopacity {
   from {
-    opacity: 0;
+    opacity: 0.15;
   }
 
   to {
@@ -57,9 +57,9 @@ redirect_from:
   animation-direction: alternate;
 }
 
-.container:hover .overlay {
+<!--.container:hover .overlay {
   opacity: 0.7;
-}
+}-->
 
 .text {
   color: white;
@@ -72,9 +72,9 @@ redirect_from:
   transform: translate(-2%, -2%);
   text-align: center;
 }
-.container:hover .text {
+<!--.container:hover .text {
   opacity: 0;
-}
+}-->
 
 </style>
 </head>

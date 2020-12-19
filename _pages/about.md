@@ -44,10 +44,10 @@ hello
   
   <div class="imageBox">
   <div class="imageInn">
-    <img src="../images/landingpage.gif" alt="Default Image">
+    <img src="../images/landingpage_back.png" alt="wind magnitude">
   </div>
   <div class="hoverImg">
-    <img src="../images/bio-pic.png" alt="Profile Image">
+    <img src="../images/landingpage_winds.gif" alt="wind vectors">
   </div>
 </div>
 </body>

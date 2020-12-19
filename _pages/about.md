@@ -15,6 +15,31 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
  
+ 
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px red solid;
+}
+.image2 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border: 1px green solid;
+}
+
+<div class="parent">
+  <img class="image1" src="../images/landingpage.gif" />
+  <img class="image2" src="https://placehold.it/100" />
+</div>
+ 
+ 
 ## Hello! My name is Louis and I am an atmospheric scientist.
 ![](../images/landingpage.gif)
 

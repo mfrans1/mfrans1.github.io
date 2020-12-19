@@ -7,47 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
- 
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Image Hover tutorial</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="hover-animation">
-  <img src="../images/landingpage.gif" alt="" class="img-back">
-  <img src="http://i.stack.imgur.com/Sjsbh.jpg" alt="" class="img-front">
-  </div>
-</body>
-</html>
 
-body{
-  background-color=#fff;
-}
-.hover-animation{
-  position: relative;
-  height: 400px;
-  width: 400px;
-  margin: 10% autop 0;
-  color: $fff;
-}
-.hover-animation img{
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 400px;
-  height: 400px;
-  transition: opacity 2s ease-in-out;
-  opacity: 0.6;
-}
-.hover-animation img.img-front:hover{
-  opacity: 0;
-  cursor: pointer;
-}
 
- 
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
  
 ## Hello! My name is Louis and I am an atmospheric scientist.
 ![](../images/landingpage.gif)

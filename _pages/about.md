@@ -62,7 +62,8 @@ redirect_from:
 }
 
 .container:hover .text {
-  visibility: hidden;
+  position: absolute;
+	left: -1000px;
 }
 
 </style>

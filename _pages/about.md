@@ -23,12 +23,12 @@ redirect_from:
 <style>
 .container {
   position: relative;
-  width: 100%;
+  width: 150%;
 }
 
 .image {
   display: block;
-  width: 100%;
+  width: 150%;
   height: auto;
 }
 

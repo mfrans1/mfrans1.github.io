@@ -61,6 +61,11 @@ redirect_from:
   text-align: center;
 }
 
+$('#elm').hover(
+       function(){ $(text).addClass('hover') },
+       function(){ $(text).removeClass('hover') }
+)
+
 </style>
 </head>
 <body>
@@ -75,6 +80,7 @@ redirect_from:
 
 </body>
 </html>
+
 
 
 My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my [research](https://lrivoire.github.io/research/).

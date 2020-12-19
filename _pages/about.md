@@ -32,13 +32,6 @@ redirect_from:
   height: auto;
 }
 
-.logo {
-  display: block;
-  width: 100%;
-  height: auto;
-  left: 50%;
-}
-
 .overlay {
   position: absolute;
   top: 0;
@@ -69,7 +62,6 @@ redirect_from:
 }
 .container:hover .text {
   opacity: 0;
-  display: none;
 }
 
 </style>
@@ -89,12 +81,6 @@ redirect_from:
 My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my [research](https://lrivoire.github.io/research/).
 
 The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of [Earth gazing](https://lrivoire.github.io/earth_gazing/). I also like talking about science with nonscientists, and my [Illustrated science](https://lrivoire.github.io/illustrated_science/) project (coming soon) aims to make my research more accessible to all.
-
-<html>
-  <div class="logo">
-    <img src="../images/earth.gif" alt="https://earth.nullschool.net/#2020/09/14/2000Z/wind/isobaric/850hPa/overlay=total_precipitable_water/orthographic=-81.84,15.95,421">
-  </div>
-</html>
 
 
 

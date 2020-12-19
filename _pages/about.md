@@ -15,8 +15,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-## Hello! My name is Louis and I am an atmospheric scientist.
-
+## Hello! My name is Louis and I am an atmospheric scientist.##
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -51,7 +50,7 @@ redirect_from:
 
 .text {
   color: white;
-  font-size: 15px;
+  font-size: 10px;
   position: absolute;
   top: 2%;
   left: 2%;
@@ -61,7 +60,7 @@ redirect_from:
   text-align: center;
 }
 
-.text:hover {
+.container:text .hover {
     display: none;
     opacity: 0;
 }

@@ -8,6 +8,48 @@ redirect_from:
   - /about.html
 ---
   
+ 
+<html>
+  <head>
+    <link rel="stylesheet" href="index.css">
+  </head>
+
+  <div class="imageBox">
+
+    <div class="imageInn">
+      <img src="../images/landingpage.gif" alt="Profile Image">
+    </div>
+
+    <div class="hoverImg center">
+    <img src="../images/gallery/isolated_wave.png" alt="default image">
+    </div>
+
+  </div>
+</html>
+
+.imageBox {
+  position: relative;
+  float: left;
+}
+
+.imageBox .hoverImg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: block;
+}
+
+.imageBox:hover .hoverImg {
+  display: block;
+  left: 0px;
+  top: 0px;
+  opacity: 0.6;
+  transition: all 5s;
+    -webkit-transition: all 5s;
+}
+
+ 
+ 
 ## Hello! My name is Louis and I am an atmospheric scientist.
 ![](../images/landingpage.gif)
 

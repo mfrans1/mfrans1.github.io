@@ -63,6 +63,7 @@ redirect_from:
 
 .text:hover {
     display: none;
+    opacity: 0;
 }
 
 </style>

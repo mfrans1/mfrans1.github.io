@@ -61,10 +61,9 @@ redirect_from:
   text-align: center;
 }
 
-$('#elm').hover(
-       function(){ $(text).addClass('hover') },
-       function(){ $(text).removeClass('hover') }
-)
+container:hover .text {
+  delete text;
+}
 
 </style>
 </head>
@@ -72,7 +71,7 @@ $('#elm').hover(
 
 <div class="container">
   <img src="../images/landingpage_back.png" alt="wind magnitude" class="image">
-  <div class="text"> hover me! </div>
+  <div class="text">hover me</div>
   <div class="overlay">
     <img src="../images/landingpage_winds.gif" alt="wind vectors" class="image">
   </div>

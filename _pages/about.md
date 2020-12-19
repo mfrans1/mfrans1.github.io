@@ -73,7 +73,7 @@ redirect_from:
   <img src="../images/landingpage_back.png" alt="wind magnitude" class="image">
   <div class="text">hover me!</div>
   <div class="overlay">
-    <img src="../images/landingpage_winds.gif" alt="wind vectors" class="image">
+    <img src="../images/oie_1974746Hk30uayy.gif" alt="wind vectors" class="image">
   </div>
 </div>
 

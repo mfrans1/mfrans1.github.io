@@ -61,9 +61,12 @@ redirect_from:
   transition: 3s ease;
 }
 
-.disp:hover {
-    display: none;
-}
+var disappear = $("#disappear");
+$("#text").hover(function(){
+    disappear.hide();
+}, function() {
+    disappear.show();
+});
 
 </style>
 </head>
@@ -71,7 +74,7 @@ redirect_from:
 
 <div class="container">
   <img src="../images/landingpage_back.png" alt="wind magnitude" class="image">
-  <div class="text"><p class="disp">hover me!</p></div>
+  <div class="text"><p id="text"><span id="disappear">hover me!</span>friend</p></div>
   <div class="overlay">
     <img src="../images/landingpage_winds.gif" alt="wind vectors" class="image">
   </div>

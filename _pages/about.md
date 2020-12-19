@@ -58,10 +58,10 @@ redirect_from:
   -ms-transform: translate(-2%, -2%);
   transform: translate(-2%, -2%);
   text-align: center;
+  transition: 3s ease;
 }
 
-.container:text .hover {
-    display: none;
+.text:hover {
     opacity: 0;
 }
 

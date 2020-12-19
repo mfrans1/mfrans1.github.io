@@ -30,7 +30,13 @@ redirect_from:
   display: block;
   width: 100%;
   height: auto;
-  box-shadow: 0 0 8px 8px white inset;
+}
+
+.logo {
+  display: block;
+  width: 100%;
+  height: auto;
+  left: 50%;
 }
 
 .overlay {
@@ -44,7 +50,6 @@ redirect_from:
   opacity: 0.15;
   transition: 2s ease;
   background-color: rgba(0,0,0,0);
-  box-shadow: 0 0 8px 8px white inset;
 }
 
 .container:hover .overlay {
@@ -86,7 +91,9 @@ My research focuses on tropical convection: how it works, how it organizes into 
 The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of [Earth gazing](https://lrivoire.github.io/earth_gazing/). I also like talking about science with nonscientists, and my [Illustrated science](https://lrivoire.github.io/illustrated_science/) project (coming soon) aims to make my research more accessible to all.
 
 <html>
-  <img src="../images/earth.gif" alt="https://earth.nullschool.net/#2020/09/14/2000Z/wind/isobaric/850hPa/overlay=total_precipitable_water/orthographic=-81.84,15.95,421" class="center">
+  <div class="logo">
+    <img src="../images/earth.gif" alt="https://earth.nullschool.net/#2020/09/14/2000Z/wind/isobaric/850hPa/overlay=total_precipitable_water/orthographic=-81.84,15.95,421">
+  </div>
 </html>
 
 

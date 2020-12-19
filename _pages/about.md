@@ -62,7 +62,7 @@ redirect_from:
 }
 
 .text:hover {
-  display: none;
+  visibility: hidden;
 }
 
 </style>

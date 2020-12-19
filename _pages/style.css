@@ -1,0 +1,23 @@
+body{
+  background-color=#fff;
+}
+.hover-animation{
+  position: relative;
+  height: 400px;
+  width: 400px;
+  margin: 10% autop 0;
+  color: $fff;
+}
+.hover-animation img{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 400px;
+  height: 400px;
+  transition: opacity 2s ease-in-out;
+  opacity: 0.6;
+}
+.hover-animation img.img-front:hover{
+  opacity: 0;
+  cursor: pointer;
+}

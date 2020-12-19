@@ -32,6 +32,16 @@ redirect_from:
   height: auto;
 }
 
+@keyframes changeopacity {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 0.7;
+  }
+}
+
 .overlay {
   position: absolute;
   top: 0;
@@ -40,9 +50,11 @@ redirect_from:
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.15;
-  transition: 2s ease;
   background-color: rgba(0,0,0,0);
+  animation-duration: 5s;
+  animation-name: changeopacity;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
 .container:hover .overlay {

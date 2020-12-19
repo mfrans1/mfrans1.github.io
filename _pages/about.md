@@ -27,7 +27,6 @@ redirect_from:
 
 .imageBox .hoverImg {
   position: absolute;
-  opacity: 0.5;
   left: 0;
   top: 0;
   transition: 5s ease;
@@ -35,8 +34,8 @@ redirect_from:
 }
 
 .imageBox:hover .hoverImg {
-  transition: 5s ease;
   display: block;
+  opacity: 0.5;
 }
  </style>
 </head>

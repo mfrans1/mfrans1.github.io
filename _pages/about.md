@@ -23,12 +23,12 @@ redirect_from:
 <style>
 .container {
   position: relative;
-  width: 110%;
+  width: 100%;
 }
 
 .image {
   display: block;
-  width: 110%;
+  width: 100%;
   height: auto;
 }
 
@@ -40,13 +40,13 @@ redirect_from:
   right: 0;
   height: 100%;
   width: 100%;
-  opacity: 0.1;
+  opacity: 0.15;
   transition: 3s ease;
   background-color: rgba(0,0,0,0);
 }
 
 .container:hover .overlay {
-  opacity: 0.7;
+  opacity: 0.5;
 }
 
 .text {

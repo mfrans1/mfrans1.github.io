@@ -61,7 +61,7 @@ redirect_from:
   text-align: center;
 }
 
-.text:hover {
+.container:hover .text {
   visibility: hidden;
 }
 

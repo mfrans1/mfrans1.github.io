@@ -61,11 +61,6 @@ redirect_from:
   text-align: center;
 }
 
-.container:hover .text {
-  position: absolute;
-	left: -1000px;
-}
-
 </style>
 </head>
 <body>

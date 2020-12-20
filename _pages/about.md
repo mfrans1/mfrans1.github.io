@@ -134,6 +134,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: right;
+  font-size: 20px;
 } 
 
 .container:hover .irma {
@@ -181,7 +182,7 @@ div.textarea {
     Jose
   </div>
   <div class="copyright">
-    <a href="https://earth.nullschool.net">source</a>
+    https://earth.nullschool.net
   </div>
 </div>
 

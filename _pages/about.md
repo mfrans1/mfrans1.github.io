@@ -136,15 +136,7 @@ div.textarea {
   text-align: right;
   font-size: 10px;
 } 
-<!-- GOOGLEY EYES HEHE -->
-.joseeyes { 
-  position: absolute; 
-  top: 4cm; 
-  left: 15.82cm;
-  opacity: 0;
-  width: 0.8cm;
-} 
-<!-- HOVER HURRICANE NAMES -->
+
 .container:hover .irma {
   opacity: .8;
   transition: 0.4s;
@@ -171,8 +163,6 @@ div.textarea {
   transition-delay: 1s;
   transition-timing-function: ease;
 }
-
-<!-- HOVER GOOGLEY EYES HEHEHE -->
 
 </style>
 </head>
@@ -210,6 +200,4 @@ The Earth is a wonder of beauty and complexity and I like to extend the concept 
 
 </body>
 </html>
-
-
 

@@ -15,8 +15,6 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-## Hello! My name is Louis and I am an atmospheric scientist.
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -81,7 +79,8 @@ redirect_from:
 </style>
 </head>
 <body>
- 
+  <p style="text-align:center"><h3>Hello! My name is Louis and I am an atmospheric scientist.</h3></p>
+  
 <div class="container">
   <img src="../images/landingpagebackground.jpg" alt="wind magnitude" class="image">
 <!-- <div class="text">hover me</div> -->
@@ -89,6 +88,12 @@ redirect_from:
     <img src="../images/landingpagefront.gif" alt="wind vectors" class="image">
   </div>
 </div>
+
+My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with
+<a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.
+
+The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of <a href="https://lrivoire.github.io/earthgazing/">Earth gazing</a>. I also like talking about science with nonscientists, and my <a href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.
+
 </body>
 </html>
 

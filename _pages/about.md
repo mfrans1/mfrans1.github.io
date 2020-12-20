@@ -30,7 +30,7 @@ redirect_from:
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 25px;
+  border-radius: 10px;
 }
 
 @keyframes changeopacity {
@@ -51,7 +51,7 @@ redirect_from:
   right: 0;
   height: 100%;
   width: 100%;
-  border-radius: 25px;
+  border-radius: 5px;
   background-color: rgba(0,0,0,0);
   animation-duration: 10s;
   animation-name: changeopacity;

@@ -176,7 +176,7 @@ div.textarea {
 .container:hover .joseeyes {
   opacity: 1;
   transition: 0.5s;
-  transition-delay: 4s;
+  transition-delay: 6s;
   transition-timing-function: ease;
 }
 
@@ -204,7 +204,7 @@ div.textarea {
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
     <div class="joseeyes">
-      <img src="../images/jose_eyes.gif" class="image">
+      <img src="../images/jose_eyes.gif" alt="" width="0.8cm" class="image">
     </div>
   </div>
 </div>

@@ -129,12 +129,12 @@ div.textarea {
 } 
 .copyright { 
   position: absolute; 
-  bottom: 0.1cm; 
+  bottom: -0.2cm; 
   right: 0.1cm;
   opacity: 0;
-  color: white;
+  color: black;
   text-align: right;
-  font-size: 20px;
+  font-size: 10px;
 } 
 
 .container:hover .irma {
@@ -155,7 +155,7 @@ div.textarea {
   transform: translateY(-1cm);
 }
 .container:hover .copyright {
-  opacity: .8;
+  opacity: 1;
   transition: 0.6s;
   transition-delay: 1s;
 }
@@ -182,7 +182,7 @@ div.textarea {
     Jose
   </div>
   <div class="copyright">
-    https://earth.nullschool.net
+    <a href="https://earth.nullschool.net">earth.nullschool.net</a>
   </div>
 </div>
 

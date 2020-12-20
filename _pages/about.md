@@ -105,8 +105,8 @@ div.textarea {
 
 .irma { 
   position: absolute; 
-  top: 1cm; 
-  left: 1cm;
+  top: 9cm; 
+  left: 22.9cm;
   opacity: 0;
 } 
 

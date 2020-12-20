@@ -136,6 +136,12 @@ div.textarea {
   text-align: right;
   font-size: 10px;
 } 
+.joseeyes { 
+  position: absolute; 
+  top: 5cm; 
+  left: 15.82cm;
+  opacity: 0;
+} 
 
 .container:hover .irma {
   opacity: .8;
@@ -161,6 +167,12 @@ div.textarea {
   opacity: 1;
   transition: 1s;
   transition-delay: 1s;
+  transition-timing-function: ease;
+}
+.container:hover .joseeyes{
+  opacity: .8;
+  transition: 0.4s;
+  transition-delay: 6s;
   transition-timing-function: ease;
 }
 

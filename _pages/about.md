@@ -114,15 +114,15 @@ div.textarea {
 .katia { 
   position: absolute; 
   top: 65%; 
-  left: 13%;
+  left: 12.5%;
   opacity: 0;
   color: white;
   text-align: center;
 } 
 .jose { 
   position: absolute; 
-  top: 92%; 
-  left: 77%;
+  top: 93%; 
+  left: 77.5%;
   opacity: 0;
   color: white;
   text-align: center;

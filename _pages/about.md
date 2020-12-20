@@ -104,7 +104,7 @@ div.textarea {
 }
 
 .irma { 
-  position: absolute; 
+  position: relative; 
   top: 5cm; 
   left: 9.8cm;
   opacity: 0;
@@ -197,9 +197,9 @@ div.textarea {
   <div class="jose">
     Jose
   </div>
-  <div class="joseeyes">
+  <!--<div class="joseeyes">
     <img src="../images/jose_eyes.gif" alt="" class="image">
-  </div>
+  </div>-->
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
   </div>

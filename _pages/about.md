@@ -95,8 +95,6 @@ redirect_from:
 }-->
 h1 {text-align: center;}
 
-
-
 div.textarea {
   text-align: justify;
   text-justify: inter-word;
@@ -104,6 +102,12 @@ div.textarea {
   margin-left: auto;
   margin-right: auto;
 }
+
+.irma { 
+  position: absolute; 
+  top: 200px; 
+  left: 650px; 
+} 
 
 </style>
 </head>
@@ -117,8 +121,8 @@ div.textarea {
   <div class="overlay">
     <img src="../images/landingpagefront.gif" alt="wind vectors" class="image">
   </div>
-  <div class="overlaytext">
-    heller
+  <div class="irma">
+    Irma
   </div>
 </div>
 

@@ -129,7 +129,7 @@ div.textarea {
 } 
 .copyright { 
   position: absolute; 
-  bottom: -0.2cm; 
+  bottom: -0.4cm; 
   right: 0.1cm;
   opacity: 0;
   color: black;

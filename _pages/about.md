@@ -142,6 +142,7 @@ div.textarea {
   transition: 0.4s;
   transition-delay: 0.15s;
   transform: translateY(-1cm);
+  transition-timing-function: ease;
 }
 .container:hover .katia {
   opacity: .8;

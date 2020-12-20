@@ -80,8 +80,9 @@ h1 {text-align: center;}
 
 
 div.textarea {
-  text-align: center;
-  width: 75%;
+  text-align: justify;
+  text-justify: inter-word;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -98,7 +99,7 @@ div.textarea {
     <img src="../images/landingpagefront.gif" alt="wind vectors" class="image">
   </div>
 </div>
-
+<br>
 <div class="textarea">My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with
 <a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.<br>
 

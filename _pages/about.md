@@ -15,7 +15,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-<html>
+<html> { font-size: 2vw; }
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -110,7 +110,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
-  font-size: 1rem;
+  font-size: 2vw;
 } 
 .katia { 
   position: absolute; 
@@ -119,7 +119,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
-  font-size: 1em;
+  font-size: 2vw;
 } 
 .jose { 
   position: absolute; 
@@ -128,7 +128,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
-  font-size: 1vw;
+  font-size: 2vw;
 } 
 .copyright { 
   position: absolute; 

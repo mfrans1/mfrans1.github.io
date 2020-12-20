@@ -106,14 +106,36 @@ div.textarea {
 .irma { 
   position: absolute; 
   top: 4.5cm; 
-  left: 10.5cm;
+  left: 10cm;
+  opacity: 0;
+  color: white;
+} 
+.katia { 
+  position: absolute; 
+  top: 4cm; 
+  left: 13cm;
+  opacity: 0;
+  color: white;
+} 
+.jose { 
+  position: absolute; 
+  top: 5.5cm; 
+  left: 15cm;
   opacity: 0;
   color: white;
 } 
 
 .container:hover .irma {
-  opacity: 1;
-  transition: 0.1s;
+  opacity: .8;
+  transition: 0.3s;
+}
+.container:hover .katia {
+  opacity: .8;
+  transition: 0.2s;
+}
+.container:hover .jose {
+  opacity: .8;
+  transition: 0.4s;
 }
 
 </style>

@@ -52,9 +52,8 @@ redirect_from:
   height: 100%;
   width: 100%;
   border-radius: 5px;
-  opacity: 0;
   background-color: rgba(0,0,0,0);
-  animation-duration: 10s;
+  animation-duration: 8s;
   animation-name: changeopacity;
   animation-iteration-count: infinite;
   animation-direction: alternate;

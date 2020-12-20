@@ -110,7 +110,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
-  font-size: 100px;
+  font-size: 4vw;
 } 
 .katia { 
   position: absolute; 
@@ -119,6 +119,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
+  font-size: 2vw;
 } 
 .jose { 
   position: absolute; 

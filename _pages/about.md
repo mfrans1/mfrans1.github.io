@@ -203,8 +203,8 @@ div.textarea {
     Jose
   </div>
   <div class="joseeyes">
-     <img src="../images/jose_eyes.gif">
-   </div>
+    <img src="../images/jose_eyes.gif">
+  </div>
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
   </div>

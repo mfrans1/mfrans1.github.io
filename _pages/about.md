@@ -156,7 +156,7 @@ div.textarea {
 }
 .container:hover .copyright {
   opacity: .8;
-  transition: 0.4s;
+  transition: 0.6s;
   transition-delay: 1s;
 }
 

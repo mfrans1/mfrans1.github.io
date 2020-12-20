@@ -106,8 +106,13 @@ div.textarea {
 .irma { 
   position: absolute; 
   top: 1cm; 
-  left: 1cm; 
+  left: 1cm;
+  opacity: 0;
 } 
+
+.container:hover .irma {
+  opacity: 1;
+}
 
 </style>
 </head>

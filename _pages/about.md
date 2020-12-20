@@ -31,8 +31,6 @@ redirect_from:
   width: 100%;
   height: auto;
   border-radius: 5px;
-  margin-bottom: 1cm;
-  margin-top: 1cm;
 }
 
 @keyframes changeopacity {
@@ -59,8 +57,6 @@ redirect_from:
   animation-name: changeopacity;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-  margin-bottom: 1cm;
-  margin-top: 1cm;
 }
 
 .overlaytext {
@@ -73,8 +69,6 @@ redirect_from:
   width: 100%;
   opacity: 0;
   background-color: rgba(0,0,0,0);
-  margin-bottom: 1cm;
-  margin-top: 1cm;
   color: white;
 }
 .container:hover .overlaytext {

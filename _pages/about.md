@@ -22,6 +22,8 @@ redirect_from:
 .container {
   position: relative;
   width: 100%;
+  margin-bottom: 1cm;
+  margin-top: 1cm;
 }
 
 .image {
@@ -29,8 +31,8 @@ redirect_from:
   width: 100%;
   height: auto;
   border-radius: 5px;
-  margin-bottom: 2cm;
-  margin-top: 2cm;
+  margin-bottom: 1cm;
+  margin-top: 1cm;
 }
 
 @keyframes changeopacity {
@@ -57,8 +59,8 @@ redirect_from:
   animation-name: changeopacity;
   animation-iteration-count: infinite;
   animation-direction: alternate;
-  margin-bottom: 2cm;
-  margin-top: 2cm;
+  margin-bottom: 1cm;
+  margin-top: 1cm;
 }
 
 .overlaytext {
@@ -70,8 +72,8 @@ redirect_from:
   height: 100%;
   width: 100%;
   background-color: rgba(0,0,0,0.1);
-  margin-bottom: 2cm;
-  margin-top: 2cm;
+  margin-bottom: 1cm;
+  margin-top: 1cm;
   color: white;
 }
 .container:hover .overlaytext {

@@ -148,17 +148,20 @@ div.textarea {
   opacity: .8;
   transition: 0.4s;
   transform: translateY(-1cm);
+  transition-timing-function: ease;
 }
 .container:hover .jose {
   opacity: .8;
   transition: 0.4s;
   transition-delay: 0.3s;
   transform: translateY(-1cm);
+  transition-timing-function: ease;
 }
 .container:hover .copyright {
   opacity: 1;
   transition: 1s;
   transition-delay: 1s;
+  transition-timing-function: ease;
 }
 
 </style>

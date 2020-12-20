@@ -34,7 +34,7 @@ redirect_from:
 
 @keyframes changeopacity {
   from {
-    opacity: 0.15;
+    opacity: 0.2;
   }
 
   to {
@@ -51,7 +51,7 @@ redirect_from:
   height: 100%;
   width: 100%;
   background-color: rgba(0,0,0,0);
-  animation-duration: 5s;
+  animation-duration: 10s;
   animation-name: changeopacity;
   animation-iteration-count: infinite;
   animation-direction: alternate;

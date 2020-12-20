@@ -138,8 +138,8 @@ div.textarea {
 } 
 .joseeyes { 
   position: absolute; 
-  top: 85%; 
-  left: 77.5%;
+  top: 80%; 
+  left: 79%;
   opacity: 0;
   width: 4%;
 } 

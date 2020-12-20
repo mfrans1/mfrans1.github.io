@@ -121,7 +121,7 @@ div.textarea {
 } 
 .jose { 
   position: absolute; 
-  top: 93%; 
+  top: 93.5%; 
   left: 77.5%;
   opacity: 0;
   color: white;
@@ -138,7 +138,7 @@ div.textarea {
 } 
 .joseeyes { 
   position: absolute; 
-  top: 93%; 
+  top: 85%; 
   left: 77.5%;
   opacity: 0;
   width: 2%;

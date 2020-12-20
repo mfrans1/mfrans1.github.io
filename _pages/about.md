@@ -61,7 +61,7 @@ redirect_from:
   opacity: 0.7;
 }-->
 
-.text {
+<!--.text {
   color: white;
   font-size: 10px;
   position: absolute;
@@ -71,7 +71,7 @@ redirect_from:
   -ms-transform: translate(-2%, -2%);
   transform: translate(-2%, -2%);
   text-align: center;
-}
+}-->
 <!--.container:hover .text {
   opacity: 0;
 }-->
@@ -81,7 +81,7 @@ h1 {text-align: center;}
 
 div.textarea {
   text-align: center;
-  width: 50%;
+  width: 75%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -100,7 +100,7 @@ div.textarea {
 </div>
 
 <div class="textarea">My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with
-<a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.
+<a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.<br>
 
 The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of <a href="https://lrivoire.github.io/earthgazing/">Earth gazing</a>. I also like talking about science with nonscientists, and my <a href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.
 </div>

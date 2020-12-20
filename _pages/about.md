@@ -141,7 +141,7 @@ div.textarea {
   top: 85%; 
   left: 77.5%;
   opacity: 0;
-  width: 2%;
+  width: 4%;
 } 
 
 .container:hover .irma {

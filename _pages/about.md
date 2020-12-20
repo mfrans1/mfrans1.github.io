@@ -127,6 +127,14 @@ div.textarea {
   color: white;
   text-align: center;
 } 
+.copyright { 
+  position: absolute; 
+  bottom: 0.5cm; 
+  left: 50%;
+  opacity: 0;
+  color: white;
+  text-align: center;
+} 
 
 .container:hover .irma {
   opacity: .8;
@@ -144,6 +152,11 @@ div.textarea {
   transition: 0.4s;
   transition-delay: 0.3s;
   transform: translateY(-1cm);
+}
+.container:hover .copyright {
+  opacity: .8;
+  transition: 0.4s;
+  transition-delay: 1s;
 }
 
 </style>
@@ -166,6 +179,9 @@ div.textarea {
   </div>
   <div class="jose">
     Jose
+  </div>
+  <div class="copyright">
+    <a href="https://earth.nullschool.net">source</a>
   </div>
 </div>
 

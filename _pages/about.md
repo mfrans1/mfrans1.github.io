@@ -182,7 +182,7 @@ div.textarea {
     Jose
   </div>
   <div class="copyright">
-    <a href="https://earth.nullschool.net/#2017/09/09/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
+    <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
   </div>
 </div>
 

@@ -105,8 +105,8 @@ div.textarea {
 
 .irma { 
   position: absolute; 
-  top: 10%; 
-  left: 20%;
+  top: 70%; 
+  left: 50%;
   opacity: 0;
   color: white;
   text-align: center;

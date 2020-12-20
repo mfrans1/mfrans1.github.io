@@ -28,7 +28,7 @@ redirect_from:
   display: block;
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 @keyframes changeopacity {
@@ -75,11 +75,12 @@ redirect_from:
 <!--.container:hover .text {
   opacity: 0;
 }-->
+h1 {text-align: center;}
 
 </style>
 </head>
 <body>
-  <p style="text-align:center"><h3>Hello! My name is Louis and I am an atmospheric scientist.</h3></p>
+<h1>Hello! My name is Louis and I am an atmospheric scientist.</h1>
   
 <div class="container">
   <img src="../images/landingpagebackground.jpg" alt="wind magnitude" class="image">

@@ -136,7 +136,14 @@ div.textarea {
   text-align: right;
   font-size: 10px;
 } 
-
+<!-- GOOGLEY EYES HEHE -->
+.joseeyes { 
+  position: absolute; 
+  top: 5cm; 
+  left: 15.82cm;
+  opacity: 0;
+} 
+<!-- HOVER HURRICANE NAMES -->
 .container:hover .irma {
   opacity: .8;
   transition: 0.4s;
@@ -164,6 +171,15 @@ div.textarea {
   transition-timing-function: ease;
 }
 
+<!-- HOVER GOOGLEY EYES HEHEHE -->
+
+.container:hover .joseeyes {
+  opacity: 1;
+  transition: 0.5s;
+  transition-delay: 4s;
+  transition-timing-function: ease;
+}
+
 </style>
 </head>
 <body>
@@ -187,6 +203,9 @@ div.textarea {
   </div>
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
+    <div class="joseeyes">
+      <img src="../images/jose_eyes.gif" class="image">
+    </div>
   </div>
 </div>
 

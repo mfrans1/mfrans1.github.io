@@ -111,7 +111,6 @@ div.textarea {
   color: white;
   text-align: center;
   font-size: 1vw;
-  border: 3px solid green;
 } 
 .katia { 
   position: absolute; 
@@ -129,6 +128,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
+  font-size: 1vw;
 } 
 .copyright { 
   position: absolute; 
@@ -200,9 +200,6 @@ div.textarea {
   </div>
   <div class="jose">
     Jose
-  </div>
-  <div class="joseeyes">
-    <img src="../images/jose_eyes.gif" alt="" class="center">
   </div>
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>

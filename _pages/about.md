@@ -71,13 +71,14 @@ redirect_from:
   right: 0;
   height: 100%;
   width: 100%;
-  background-color: rgba(0,0,0,0.1);
+  opacity: 0;
+  background-color: rgba(0,0,0,0);
   margin-bottom: 1cm;
   margin-top: 1cm;
   color: white;
 }
 .container:hover .overlaytext {
-  opacity: 0.9;
+  opacity: 1;
 }
 
 <!--.container:hover .overlay {

@@ -129,12 +129,11 @@ div.textarea {
 } 
 .copyright { 
   position: absolute; 
-  bottom: 0.5cm; 
+  bottom: 0.1cm; 
   right: 0.1cm;
   opacity: 0;
   color: white;
   text-align: right;
-  font-size: 5px;
 } 
 
 .container:hover .irma {

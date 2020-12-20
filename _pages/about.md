@@ -80,7 +80,7 @@ h1 {text-align: center;}
 </style>
 </head>
 <body>
-<h1>Hello! My name is Louis and I am an atmospheric scientist.</h1>
+<h1>Hello! My name is Louis.<br>I am an atmospheric scientist.</h1>
   
 <div class="container">
   <img src="../images/landingpagebackground.jpg" alt="wind magnitude" class="image">

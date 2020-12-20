@@ -105,7 +105,7 @@ div.textarea {
 
 .irma { 
   position: absolute; 
-  top: 4cm; 
+  top: 5cm; 
   left: 9.8cm;
   opacity: 0;
   color: white;
@@ -113,7 +113,7 @@ div.textarea {
 } 
 .katia { 
   position: absolute; 
-  top: 3.5cm; 
+  top: 4.5cm; 
   left: 2.6cm;
   opacity: 0;
   color: white;
@@ -121,7 +121,7 @@ div.textarea {
 } 
 .jose { 
   position: absolute; 
-  top: 5.5cm; 
+  top: 6.5cm; 
   left: 15.82cm;
   opacity: 0;
   color: white;
@@ -137,11 +137,13 @@ div.textarea {
 .container:hover .katia {
   opacity: .8;
   transition: 0.4s;
+  transform: translateY(-1cm);
 }
 .container:hover .jose {
   opacity: .8;
   transition: 0.4s;
   transition-delay: 0.3s;
+  transform: translateY(-1cm);
 }
 
 </style>

@@ -105,8 +105,8 @@ div.textarea {
 
 .irma { 
   position: absolute; 
-  top: 200px; 
-  left: 650px; 
+  top: 1cm; 
+  left: 1cm; 
 } 
 
 </style>

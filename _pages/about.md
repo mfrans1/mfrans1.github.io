@@ -61,6 +61,23 @@ redirect_from:
   margin-top: 2cm;
 }
 
+.overlaytext {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.1);
+  margin-bottom: 2cm;
+  margin-top: 2cm;
+  color: white;
+}
+.container:hover .overlaytext {
+  opacity: 0.9;
+}
+
 <!--.container:hover .overlay {
   opacity: 0.7;
 }-->
@@ -102,6 +119,9 @@ div.textarea {
 <!-- <div class="text">hover me</div> -->
   <div class="overlay">
     <img src="../images/landingpagefront.gif" alt="wind vectors" class="image">
+  </div>
+  <div class="overlaytext">
+    heller
   </div>
 </div>
 

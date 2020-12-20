@@ -106,23 +106,23 @@ div.textarea {
 .irma { 
   position: absolute; 
   top: 75%; 
-  left: 47%;
+  left: 48%;
   opacity: 0;
   color: white;
   text-align: center;
 } 
 .katia { 
   position: absolute; 
-  top: 60%; 
-  left: 25%;
+  top: 65%; 
+  left: 13%;
   opacity: 0;
   color: white;
   text-align: center;
 } 
 .jose { 
   position: absolute; 
-  top: 90%; 
-  left: 75%;
+  top: 92%; 
+  left: 77%;
   opacity: 0;
   color: white;
   text-align: center;

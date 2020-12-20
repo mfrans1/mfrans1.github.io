@@ -81,9 +81,9 @@ h1 {text-align: center;}
 
 div.textarea {
   text-align: center;
-  width: 150px;
-  text-align: center;
-  left: 50%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 </style>

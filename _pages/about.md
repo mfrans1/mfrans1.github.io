@@ -130,10 +130,11 @@ div.textarea {
 .copyright { 
   position: absolute; 
   bottom: 0.5cm; 
-  left: 50%;
+  right: 0.1cm;
   opacity: 0;
   color: white;
-  text-align: center;
+  text-align: right;
+  font-size: 5px;
 } 
 
 .container:hover .irma {

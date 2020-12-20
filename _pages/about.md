@@ -174,13 +174,6 @@ div.textarea {
 
 <!-- HOVER GOOGLEY EYES HEHEHE -->
 
-.container:hover .joseeyes {
-  opacity: 1;
-  transition: 0.5s;
-  transition-delay: 6s;
-  transition-timing-function: ease;
-}
-
 </style>
 </head>
 <body>

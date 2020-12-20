@@ -106,7 +106,7 @@ div.textarea {
 .irma { 
   position: absolute; 
   top: 4cm; 
-  left: 10cm;
+  left: 9.8cm;
   opacity: 0;
   color: white;
   text-align: center;
@@ -114,7 +114,7 @@ div.textarea {
 .katia { 
   position: absolute; 
   top: 3.5cm; 
-  left: 3cm;
+  left: 2.8cm;
   opacity: 0;
   color: white;
   text-align: center;
@@ -122,7 +122,7 @@ div.textarea {
 .jose { 
   position: absolute; 
   top: 5.5cm; 
-  left: 16cm;
+  left: 15.9cm;
   opacity: 0;
   color: white;
   text-align: center;

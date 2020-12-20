@@ -139,9 +139,10 @@ div.textarea {
 <!-- GOOGLEY EYES HEHE -->
 .joseeyes { 
   position: absolute; 
-  top: 5cm; 
+  top: 4cm; 
   left: 15.82cm;
   opacity: 0;
+  width: 0.8cm;
 } 
 <!-- HOVER HURRICANE NAMES -->
 .container:hover .irma {
@@ -204,7 +205,7 @@ div.textarea {
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
     <div class="joseeyes">
-      <img src="../images/jose_eyes.gif" alt="" width="0.8cm" class="image">
+      <img src="../images/jose_eyes.gif" alt="" class="image">
     </div>
   </div>
 </div>

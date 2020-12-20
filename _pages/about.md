@@ -130,15 +130,17 @@ div.textarea {
 
 .container:hover .irma {
   opacity: .8;
-  transition: 0.3s;
+  transition: 0.4s;
+  transition-delay: 0.15s;
 }
 .container:hover .katia {
   opacity: .8;
-  transition: 0.2s;
+  transition: 0.4s;
 }
 .container:hover .jose {
   opacity: .8;
   transition: 0.4s;
+  transition-delay: 0.3s;
 }
 
 </style>

@@ -109,6 +109,7 @@ div.textarea {
   left: 10cm;
   opacity: 0;
   color: white;
+  text-align: center;
 } 
 .katia { 
   position: absolute; 
@@ -116,6 +117,7 @@ div.textarea {
   left: 13cm;
   opacity: 0;
   color: white;
+  text-align: center;
 } 
 .jose { 
   position: absolute; 
@@ -123,6 +125,7 @@ div.textarea {
   left: 15cm;
   opacity: 0;
   color: white;
+  text-align: center;
 } 
 
 .container:hover .irma {
@@ -152,6 +155,12 @@ div.textarea {
   </div>
   <div class="irma">
     Irma
+  </div>
+  <div class="katia">
+    Katia
+  </div>
+  <div class="jose">
+    Jose
   </div>
 </div>
 

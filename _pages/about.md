@@ -110,6 +110,7 @@ div.textarea {
   opacity: 0;
   color: white;
   text-align: center;
+  font-size: 4vb;
 } 
 .katia { 
   position: absolute; 

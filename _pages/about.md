@@ -138,9 +138,10 @@ div.textarea {
 } 
 .joseeyes { 
   position: absolute; 
-  top: 5cm; 
-  left: 15.82cm;
+  top: 93%; 
+  left: 77.5%;
   opacity: 0;
+  width: 2%;
 } 
 
 .container:hover .irma {
@@ -170,8 +171,8 @@ div.textarea {
   transition-timing-function: ease;
 }
 .container:hover .joseeyes{
-  opacity: .8;
-  transition: 0.4s;
+  opacity: 1;
+  transition: 0.1s;
   transition-delay: 10s;
   transition-timing-function: ease;
 }
@@ -197,9 +198,9 @@ div.textarea {
   <div class="jose">
     Jose
   </div>
-  <!--<div class="joseeyes">
+  <div class="joseeyes">
     <img src="../images/jose_eyes.gif" alt="" class="image">
-  </div>-->
+  </div>
   <div class="copyright">
     <a href="https://earth.nullschool.net/#2017/09/08/0200Z/ocean/isobaric/1000hPa/overlay=significant_wave_height/orthographic=-77.92,20.64,1100">earth.nullschool.net</a>
   </div>

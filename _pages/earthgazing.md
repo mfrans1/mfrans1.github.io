@@ -67,22 +67,21 @@ div.desc {
   clear: both;
 }
 
-div.explanation{
+div.explanation {
   color: white;
-  opacity; 0;
-  top: 2%;
-  left: 2%;
-  height: 10%;
-  width: 25%;
-  text-align: left;
   font-size: 1vi;
-  background-color: rgba(255,255,255,0.25);
+  top: 0;
+  left: 0;
+  text-align: left;
+  opacity: 0;
+  background-color: rgba(255,255,255,0);
 }
 
 div.explanation:hover {
   opacity: 1;
   transition: 0.2s;
   transition-timing-function: ease;
+  background-color: rgba(255,255,255,0.2);
 }
 
 </style>
@@ -93,8 +92,8 @@ div.explanation:hover {
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png">
       <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint" width="1200" height="800">
-      <div class="explanation">explanationn</div>
     </a>
+    <div class="explanation">EXPLANATION GOES HERE</div>
     <div id="desc">Sun glint over the Indian ocean</div>
   </div>
 </div>

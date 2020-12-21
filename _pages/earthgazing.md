@@ -105,6 +105,7 @@ div.explanation:hover {
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20170905104534.png">
       <img src="../images/gallery/cira-rammb-slider---goes-16---full_disk---geocolor-opacity-100---20170905104534.png" alt="irma" width="1200" height="800">
+      <div class="explanation">Sunrise and sunset enhance the perspective by casting long shadows. Irma eventually produced widespread damage throughout the Caribbean</div>
     </a>
     <div id="desc">Sunrise over hurricane Irma as it heads for the Caribbean</div>
   </div>

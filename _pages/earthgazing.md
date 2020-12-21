@@ -71,7 +71,8 @@ div.desc {
 div.explanation {
   position: absolute;
   color: black;
-  font-size: 2em;
+  width: 100%;
+  height: 100%;
   top: 0;
   left: 0;
   text-align: left;

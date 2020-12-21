@@ -77,8 +77,8 @@ div.explanation {
   left: 0;
   text-align: left;
   opacity: 0;
-  font-size: 0.7vi;
-  background-color: rgba(255,255,255,0.5);
+  font-size: 0.3vi;
+  background-color: rgba(255,255,255,0.9);
 }
 
 div.explanation:hover {
@@ -176,7 +176,7 @@ div.explanation:hover {
   <div class="gallery">
     <a target="_blank" href="../images/gallery/pyrocu_australia.gif">
       <img src="../images/gallery/pyrocu_australia.gif" alt="pyrocu" width="1200" height="800">
-      <div class="explanation">Wildfires sometimes release enough energy to create their own convective clouds and anvils, sometimes evenn punching into the stratosphere</div>
+      <div class="explanation">Intense wildfires can create convective clouds, sometimes penetrating the stratosphere</div>
     </a>
     <div id="desc">Pyrocumulus (Queensland, Australia)</div>
   </div>
@@ -186,7 +186,7 @@ div.explanation:hover {
   <div class="gallery">
     <a target="_blank" href="../images/gallery/sri_lanka_bridge.png">
       <img src="../images/gallery/sri_lanka_bridge.png" alt="sri_lanka" width="1200" height="800">
-      <div class="explanation">There is no physical link between the clouds and the landscape. It is simply pretty.</div>
+      <div class="explanation">There may be no physical link between the clouds and the landscape--it is simply pretty</div>
     </a>
     <div id="desc">Clouds mimic Rama's Bridge (India/Sri Lanka)</div>
   </div>

@@ -70,13 +70,14 @@ div.desc {
 
 div.explanation {
   position: absolute;
-  color: black;
+  color: white;
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
   text-align: left;
   opacity: 0;
+  font-size: 1vi;
   background-color: rgba(255,255,255,0);
 }
 
@@ -93,10 +94,10 @@ div.explanation:hover {
 
 <div class="responsive">
   <div class="gallery">
+    <div class="explanation">"Glint" refers to the light patch north east of Madagascar</div>
     <a target="_blank" href="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png">
       <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint" width="1200" height="800">
     </a>
-    <div class="explanation">"Glint" refers to the light patch north east of Madagascar</div>
     <div id="desc">Sun glint over the Indian ocean</div>
   </div>
 </div>

@@ -21,6 +21,7 @@ Our planet seen from space, for your perusing and enjoyment.
 }
 
 div.gallery {
+  position: relative;
   border: 1px solid #ccc;
 }
 
@@ -68,6 +69,7 @@ div.desc {
 }
 
 div.explanation {
+  position: absolute;
   color: black;
   font-size: 1vi;
   top: 0;

@@ -81,6 +81,18 @@ div.explanation {
   background-color: rgba(255,255,255,0.9);
 }
 
+@media screen and (min-width: 601px) {
+  div.explanation {
+    font-size: 0.3vi;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  div.explanation {
+    font-size: 0.1vi;
+  }
+}
+
 div.explanation:hover {
   opacity: 1;
   transition: 0.2s;

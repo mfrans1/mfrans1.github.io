@@ -70,22 +70,21 @@ div.desc {
 
 div.explanation {
   position: absolute;
-  color: white;
+  color: rgba(75,75,75,1);
   width: 100%;
   height: 100%;
   top: 0;
   left: 0;
   text-align: left;
   opacity: 0;
-  font-size: 1vi;
-  background-color: rgba(255,255,255,0);
+  font-size: 0.7vi;
+  background-color: rgba(255,255,255,0.4);
 }
 
 div.explanation:hover {
   opacity: 1;
   transition: 0.2s;
   transition-timing-function: ease;
-  background-color: rgba(255,255,255,0.2);
 }
 
 </style>

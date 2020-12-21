@@ -68,7 +68,7 @@ div.desc {
 }
 
 div.explanation {
-  color: white;
+  color: black;
   font-size: 1vi;
   top: 0;
   left: 0;

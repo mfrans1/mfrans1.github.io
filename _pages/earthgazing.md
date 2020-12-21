@@ -66,6 +66,25 @@ div.desc {
   display: table;
   clear: both;
 }
+
+div.explanation{
+  color: white;
+  opacity; 0;
+  top: 2%;
+  left: 2%;
+  height: 10%;
+  width: 25%;
+  text-align: left;
+  font-size: 1vi;
+  background-color: rgba(255,255,255,0.25);
+}
+
+div.explanation:hover {
+  opacity: 1;
+  transition: 0.2s;
+  transition-timing-function: ease;
+}
+
 </style>
 </head>
 <body>
@@ -76,6 +95,7 @@ div.desc {
       <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint" width="1200" height="800">
     </a>
     <div id="desc">Sun glint over the Indian ocean</div>
+    <div class="explanation">explanationn</div>
   </div>
 </div>
 

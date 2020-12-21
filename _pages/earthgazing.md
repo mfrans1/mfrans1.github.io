@@ -186,7 +186,7 @@ div.explanation:hover {
   <div class="gallery">
     <a target="_blank" href="../images/gallery/sri_lanka_bridge.png">
       <img src="../images/gallery/sri_lanka_bridge.png" alt="sri_lanka" width="1200" height="800">
-      <div class="explanation">There may be no physical link between the clouds and the landscape--it is simply pretty</div>
+      <div class="explanation">There may be no physical link between these clouds and the landscape--it is simply pretty</div>
     </a>
     <div id="desc">Clouds mimic Rama's Bridge (India/Sri Lanka)</div>
   </div>

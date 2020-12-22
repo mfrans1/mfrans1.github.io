@@ -32,12 +32,12 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
-  <!-- NEW-->
+  <!-- NEW
   position: absolute;
   max-width: 100%;
   top: 50%;     
   left: 50%;
-  transform: translate( -50%, -50%);
+  transform: translate( -50%, -50%);-->
 }
 
 div.desc {
@@ -53,11 +53,11 @@ div.desc {
   padding: 0 6px;
   float: left;
   width: 24.99999%;
-  <!-- NEW -->
+  <!-- NEW
   position: relative;
   width: 400px;     
   height: 300px;
-  overflow: hidden;
+  overflow: hidden;-->
 }
 
 @media only screen and (max-width: 700px) {
@@ -117,7 +117,7 @@ div.explanation:hover {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png">
-      <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint">
+      <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint" width="1200" height="auto">
       <div class="explanation">"Glint" refers to the light patch north east of Madagascar</div>
     </a>
     <div id="desc">Sun glint over the Indian ocean</div>

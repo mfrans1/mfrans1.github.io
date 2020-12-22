@@ -235,6 +235,16 @@ div.explanation:hover {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/florida_thunderstorms.png">
+      <img src="../images/gallery/florida_thunderstorms.png" alt="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS002&roll=731&frame=41" width="1200" height="800">
+      <div class="explanation">Convective instability leads to the development of convective clouds, some of which develop anvils where they reach a level of neutral buoyancy</div>
+    </a>
+    <div id="desc">Thunderstorms develop across Florida</div>
+  </div>
+</div>
+
 <div class="clearfix"></div>
 
 </body>

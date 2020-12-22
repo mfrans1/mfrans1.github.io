@@ -117,7 +117,7 @@ div.explanation:hover {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png">
-      <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint" width="1200" height="800">
+      <img src="../images/gallery/cira-rammb-slider---meteosat-8---full_disk---geocolor-opacity-100---20201118053000.png" alt="sun glint">
       <div class="explanation">"Glint" refers to the light patch north east of Madagascar</div>
     </a>
     <div id="desc">Sun glint over the Indian ocean</div>

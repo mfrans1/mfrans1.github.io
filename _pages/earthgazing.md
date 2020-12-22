@@ -33,7 +33,11 @@ div.gallery img {
   width: 100%;
   height: auto;
   <!-- NEW-->
-  
+  position: absolute;
+  max-width: 100%;
+  top: 50%;     
+  left: 50%;
+  transform: translate( -50%, -50%);
 }
 
 div.desc {
@@ -51,7 +55,7 @@ div.desc {
   width: 24.99999%;
   <!-- NEW -->
   position: relative;
-  width: 300px;     
+  width: 400px;     
   height: 300px;
   overflow: hidden;
 }

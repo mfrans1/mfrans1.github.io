@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "dev"
+permalink: /dev/
+author_profile: true
+---
+
+{% include base_path %}
+
 <html>
 <style>
 

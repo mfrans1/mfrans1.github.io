@@ -36,7 +36,8 @@ author_profile: true
   grid-column-end: span 2;
   margin: calc(-1*var(--hl)) 0;
   transform: scale(.95);
-  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%)
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+  width: 
 }
 
 .img {

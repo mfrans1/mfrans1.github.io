@@ -245,6 +245,26 @@ div.explanation:hover {
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/mesospheric_clouds_tibet.png">
+      <img src="../images/gallery/mesospheric_clouds_tibet.png" alt="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS031&roll=E&frame=116058" width="1200" height="800">
+      <div class="explanation">Polar mesospheric clouds form near 80 km altitude when the temperature is low enough that the small amounts of water vapor available turn into ice crystals</div>
+    </a>
+    <div id="desc">Noctiluscent polar mesospheric clouds (seen from Tibet)</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/sprite_texas.png">
+      <img src="../images/gallery/sprite_texas.png" alt="https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS044&roll=E&frame=45553" width="1200" height="800">
+      <div class="explanation">Sprites are electrical discharges that occur in the mesosphere (50-80 km) above intense thunderstorms</div>
+    </a>
+    <div id="desc">Red sprites above a thunderstorm (Texas)</div>
+  </div>
+</div>
+
 <div class="clearfix"></div>
 
 </body>

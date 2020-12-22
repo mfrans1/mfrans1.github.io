@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "dev"
+title: "nothing to see here..."
 permalink: /dev/
 author_profile: true
 ---

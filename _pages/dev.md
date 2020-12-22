@@ -58,6 +58,11 @@ author_profile: true
       <img src="../images/gallery/cira-rammb-slider - -goes-17 - -full_disk - -geocolor-opacity-100 - -20201119151031-20201119220031.gif" alt="vortex_street_gif">
     </a>
   </div>
+  <div class="hex-cell">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png">
+      <img src="../images/gallery/cira-rammb-slider---goes-17---full_disk---geocolor-opacity-100---20201119013031.png" alt="vortex_street_gif">
+    </a>
+  </div>
 </body>
 
 </html>

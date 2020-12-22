@@ -15,4 +15,7 @@ main:
   - title: "Illustrated Science"
     url: /illustrated_science/   
     
+  - title: "dev"
+    url: /dev/
+    
 

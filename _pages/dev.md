@@ -12,7 +12,7 @@ author_profile: true
 
 @import 'compass/css3';
 
-body {
+.body {
   --l: calc(100vw/var(--n-cols));
   --hl: calc(.5*var(--l));
   --ri: calc(.5*#{sqrt(3)}*var(--l));
@@ -39,7 +39,7 @@ body {
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%)
 }
 
-img {
+.img {
   --hl: 0;
   width: 100%; height: 100%;
   object-fit: cover;
@@ -53,11 +53,7 @@ img {
 </style>
 
 <body>
-// number of rows and minimum number of columns, you can adjust as you please
-- let n_rows = 3; // at least 1 !!!
-- let n_cols_min = 2; // at least 1 !!!
 
-// image urls, you can replace with your own
 - let imgs = [
 -   'https://images.unsplash.com/photo-1519681393784-d120267933ba?w=650&fm=jpg', 
 -   'https://images.unsplash.com/photo-1497733942558-e74c87ef89db?w=650&fm=jpg', 

@@ -53,25 +53,11 @@ author_profile: true
 </style>
 
 <body>
-
-- let imgs = [
--   'https://images.unsplash.com/photo-1519681393784-d120267933ba?w=650&fm=jpg', 
--   'https://images.unsplash.com/photo-1497733942558-e74c87ef89db?w=650&fm=jpg', 
--   'https://images.unsplash.com/photo-1540744276164-9dc898353c7b?w=650&fm=jpg', 
--   'https://images.unsplash.com/photo-1469975692758-66d107a536cb?w=650&fm=jpg', 
--   'https://images.unsplash.com/photo-1490845060161-85f9ce08a9f4?w=650&fm=jpg', 
--   'https://images.unsplash.com/photo-1541673504494-8bcc1a340180?w=650&fm=jpg', 
--   'https://images.unsplash.com/photo-1515937350506-3e7b51a95339?w=650&fm=jpg'
-- ];
-
-- let n_cols_max = n_cols_min + 1, n_cols_sum = n_cols_max + n_cols_min;
-- let n = Math.ceil(.5*n_rows)*n_cols_min + Math.floor(.5*n_rows)*n_cols_max;
-- let ni = imgs.length;
-
-body(style=`--n-rows: ${n_rows}; --n-cols: ${2*n_cols_max}`)
-  style .hex-cell:nth-of-type(#{n_cols_sum}n + 1) { grid-column-start: 2 }
-  - for(let i = 0; i < n; i++)
-    .hex-cell: img(src=imgs[i%ni])
+  <div class="hex-cell">
+    <a target="_blank" href="../images/gallery/cira-rammb-slider - -goes-17 - -full_disk - -geocolor-opacity-100 - -20201119151031-20201119220031.gif">
+      <img src="../images/gallery/cira-rammb-slider - -goes-17 - -full_disk - -geocolor-opacity-100 - -20201119151031-20201119220031.gif" alt="vortex_street_gif">
+    </a>
+  </div>
 </body>
 
 </html>

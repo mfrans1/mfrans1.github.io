@@ -32,11 +32,15 @@ Generally speaking, clouds interact with processes on a vast range of scales, fr
 
 ### Atmospheric transport
 ![ ](../images/transport.png)
-The atmosphere transports and mixes a variety of gases and pollutants such as ozone, aerosols, and ashes. These substances have large impacts air quality, air chemistry, on convection, and on the climate. My research is expanding in this direction, focusing on the transport of ozone between two atmospheric reservoirs with drastically different properties: the troposphere, poor in ozone, and the stratosphere, very rich in ozone. It is possible for ozone-rich air to travel from the stratosphere into the troposphere, and all the way to the surface where it can trigger air quality issues. The magnitude of this transport and the processes that lead to it have been the subject of studies since the early 1990s. I am currently developing a new method that relies on satellite data and on simulations of the atmosphere to provide a updated look at the issue.
+The atmosphere transports and mixes a variety of gases and pollutants such as ozone, aerosols, and ashes. These substances have large impacts air quality, air chemistry, on convection, and on the climate. My research is expanding in this direction, focusing on the transport of ozone between two atmospheric reservoirs with drastically different properties: the troposphere, poor in ozone, and the stratosphere, very rich in ozone. It is possible for ozone-rich air to travel from the stratosphere into the troposphere, and all the way to the surface where it can trigger air quality issues. The magnitude of this transport and the processes that lead to it have been the subject of studies since the early 1990s. I am currently developing a new method that relies on satellite data and on simulations of the atmosphere to provide an updated look at the issue.
 
 ---
 
-### Stratospheric circulation
+### Stratospheric ozone and circulation
 ![ ](../images/stratosphere.png)
-A work in progress on the concept of age of air in the stratosphere...
+Stratospheric ozone plays a central role in protecting life on Earth from harmful ultraviolet (UV) radiation from the Sun. Emissions of synthetic compounds such as chlorofluorocarbons (CFCs) since the 1930s have depleted ozone concentrations in the stratosphere, which led to the appearance of the so-called *ozone hole*. In 1987, the Montreal Protocol banned the production of CFCs and their stratospheric concentrations have ever since been decreasing. Over time, this decrease is expected allow stratospheric ozone concentrations to return to their pre-industrial levels. Whether ozone concentrations have already started to recover or not is a central question for climate science; while the largest ozone hole ever observed occurred over a decade ago and while ozone concentrations have been increasing in the recent past, one must also account for complex natural processes that impact ozone concentrations (long-term oscillations in the climate system, changes in the circulation and chemistry of the stratosphere, etc). With my research I aim to provide answers to the question of the statistical significance of the expected ozone recovery. I use a simple framework based on the statistical analysis of simulated and observed ozone concentrations in the stratosphere.
+
+
+
+
 

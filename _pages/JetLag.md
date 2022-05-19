@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "LetLag"
+title: "JetLag"
 permalink: /JetLag/
 author_profile: true
 ---
@@ -11,4 +11,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[](../images/logo2.png)
+Access the JetLag dataset [here]()
+![](../images/logo2.png)

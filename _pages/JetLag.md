@@ -12,6 +12,6 @@ author_profile: true
 {% endfor %}
 
 Access the JetLag dataset [here]()
-
-Sign up for the JetLag mailing list here
 ![](../images/logo2.png)
+Sign up for the JetLag mailing list here
+

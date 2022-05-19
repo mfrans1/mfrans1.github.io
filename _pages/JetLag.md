@@ -16,5 +16,5 @@ author_profile: true
 
 Access the JetLag dataset [here]()
 
-Sign up for the JetLag mailing list here
+Sign up for the JetLag mailing list [here](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/)
 

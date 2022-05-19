@@ -11,7 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Access the JetLag dataset [here]()
+
 ![](../images/logo2.png)
+
+Access the JetLag dataset [here]()
+
 Sign up for the JetLag mailing list here
 

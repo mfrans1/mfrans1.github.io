@@ -206,7 +206,7 @@ div.textarea {
   </div>
 </div>
 
-<div class="textarea">My research focuses on the upper troposphere and lower stratosphere --how tropical convection and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. I work as a postdoctoral fellow with
+<div class="textarea">My research focuses on the upper troposphere and lower stratosphere –how tropical convection and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. I work as a postdoctoral fellow with
 <span style="white-space:nowrap"><a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a></span> at Harvard University's Department of Earth and Planetary Sciences. More on my <a href="https://lrivoire.github.io/research/">research</a>.<br><br>
 
 The Earth is a wonder of beauty and complexity, and I like spending time <a href="https://lrivoire.github.io/earthgazing/">Earthgazing</a>. I also like talking about science with nonscientists, and my <a href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.

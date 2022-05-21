@@ -207,9 +207,11 @@ div.textarea {
 </div>
 
 <div class="textarea">I work as a postdoctoral fellow with
-<span style="white-space:nowrap"><a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a></span> at Harvard University's Department of Earth and Planetary Sciences. My research focuses on the upper troposphere and lower stratosphere –how tropical convection, and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. More on my <a href="https://lrivoire.github.io/research/">research</a>.<br><br>
+<span style="white-space:nowrap"><a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a></span> at Harvard University's department of Earth and Planetary Sciences.<br><br>
+  
+My research focuses on the upper troposphere and lower stratosphere; how tropical convection, and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. More <a href="https://lrivoire.github.io/research/">here</a>.<br><br>
 
-If you are interested in jet streams, feel free to subscribe to the <a href="https://lrivoire.github.io/JetLag/">JetLag mailing list</a>.
+If you are interested in jet streams, subscribe to the <a href="https://lrivoire.github.io/JetLag/">JetLag mailing list</a>.
 </div>
 
 <!--The Earth is a wonder of beauty and complexity, and I like spending time <a href="https://lrivoire.github.io/earthgazing/">Earthgazing</a>. I also like talking about science with nonscientists, and my <a href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.-->

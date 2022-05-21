@@ -44,4 +44,8 @@ We're still working on it, but we expect to release several beta products by Aug
 * A jet segment ('jegment') data set with labeled, non injective subtropical and polar front features;
 * A jet coordinate data set
 
+---
 
+**Can I get involved?**
+
+Yes! We'd love to hear your thoughts. You can reach out to me via the mailing list (once you've subscribed, email: jetlag-owner (at) lists (dot) fas (dot) harvard (dot) edu) or directly via my professional email (lrivoire (at) fas (dot) harvard (dot) edu). You can also request that JetLag be applied to a model output or reanalysis or your choosing –we want JetLag to be useful to your specific purposes! Subject to computing constraints and demand, of course.

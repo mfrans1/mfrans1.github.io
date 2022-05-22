@@ -49,7 +49,7 @@ In order to avoid relying on arbitrary parameters, JetLag defines the axis of th
 We're still working on it, but we expect to release several beta products by August 2022. These products will be based on the MERRA-2 reanalysis and will include:<br>
 
 * A jet segment ('jegment') data set with labeled, non injective subtropical and polar front features;
-* A jet coordinate data set
+* A jet coordinate data set (injective subtropical and polar front axes)
 
 Other products will be released over time, including products for the ERAi reanalysis and for CMIP6 model runs.<br>
 Contact us (see below) if you are interested in a product that is not available.<br>

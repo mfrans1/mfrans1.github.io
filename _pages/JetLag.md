@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JetLag"
+title: "JetLag, the **Lag**rangian **Jet** tracking algorithm"
 permalink: /JetLag/
 author_profile: true
 ---

@@ -15,7 +15,7 @@ author_profile: true
 ![](../images/logo2.png)
 
 **The JetLag data sets and documentation will be released shortly**<br>
-In the meantime, sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/)<br>
+Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/lists/jetlag.lists.fas.harvard.edu/) to be notified.<br>
 
 ---
 

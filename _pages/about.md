@@ -206,16 +206,15 @@ div.textarea {
   </div>
 </div>
 
-<div class="textarea">I work as a postdoctoral fellow with
-<span style="white-space:nowrap"><a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a></span> at Harvard University's department of Earth and Planetary Sciences.<br><br>
-  
-My research focuses on the upper troposphere and lower stratosphere; how tropical convection, and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. More <a href="https://lrivoire.github.io/research/">here</a>.<br><br>
+<div class="textarea">My research focuses on the <b>upper troposphere and lower stratosphere</b>; how tropical convection, jet streams, and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. I also work to understand long-term changes in the stratospheric ozone layer, a key component of the climate system. More <a href="https://lrivoire.github.io/research/">here</a>.<br>
 
-If you are interested in jet streams, subscribe to the <a href="https://lrivoire.github.io/JetLag/">JetLag mailing list</a>.
+In all my research projects I strive to develop objective methods that can be applied for the analysis of the atmosphere regardless of the state of the climate. One such method is an algorithm that detects the position of jet streams, called <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
 </div>
 
 <!--The Earth is a wonder of beauty and complexity, and I like spending time <a href="https://lrivoire.github.io/earthgazing/">Earthgazing</a>. I also like talking about science with nonscientists, and my <a href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.-->
-<!--My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my [research](https://lrivoire.github.io/research/). The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of [Earth gazing](https://lrivoire.github.io/earthgazing/). I also like talking about science with nonscientists, and my [Illustrated science](https://lrivoire.github.io/illustrated_science/) project (coming soon) aims to make my research more accessible to all.-->
+<!--My research focuses on tropical convection: how it works, how it organizes into phenomena like hurricanes, how it affects the Earth's climate, and how it might change in the future. I work as a postdoctoral fellow with [Dr. Marianna Linz](https://eps.harvard.edu/people/faculty-groups/linz-group) at Harvard University's Department of Earth and Planetary Sciences. More on my [research](https://lrivoire.github.io/research/). The Earth is a wonder of beauty and complexity and I like to extend the concept of stargazing to that of [Earth gazing](https://lrivoire.github.io/earthgazing/). I also like talking about science with nonscientists, and my [Illustrated science](https://lrivoire.github.io/illustrated_science/) project (coming soon) aims to make my research more accessible to all.
+I work as a postdoctoral fellow with
+<span style="white-space:nowrap"><a href="https://eps.harvard.edu/people/faculty-groups/linz-group">Dr. Marianna Linz</a></span> at Harvard University's department of Earth and Planetary Sciences.<br><br>-->
 
 </body>
 </html>

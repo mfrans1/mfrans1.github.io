@@ -206,7 +206,7 @@ div.textarea {
   </div>
 </div>
 
-<div class="textarea">My research focuses on the <b>upper troposphere and lower stratosphere</b>; how tropical convection, jet streams, and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. I also work to understand long-term changes in the stratospheric ozone layer, a key component of the climate system. More <a href="https://lrivoire.github.io/research/">here</a>.<br>
+<div class="textarea">My research focuses on the <b>upper troposphere and lower stratosphere</b>; how tropical convection, jet streams, and other dynamical, radiative, and chemical processes interact with the tropopause layer and affect the climate. I also work to understand long-term changes in the stratospheric ozone layer, a key component of the climate system. More <a href="https://lrivoire.github.io/research/">here</a>.<br><br>
 
 In all my research projects I strive to develop objective methods that can be applied for the analysis of the atmosphere regardless of the state of the climate. One such method is an algorithm that detects the position of jet streams, called <a href="https://lrivoire.github.io/JetLag/">JetLag</a>.
 </div>

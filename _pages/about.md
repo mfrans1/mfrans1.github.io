@@ -184,7 +184,7 @@ div.textarea {
 </head>
 <body>
   
-<h1>Hello, my name is Louis.<br>I am an atmospheric scientist.</h1>
+<h1>Hi! My name is Louis, I am an atmospheric scientist.</h1>
   
 <div class="container">
   <img src="../images/landingpagebackground.jpg" alt="wind magnitude" class="image">

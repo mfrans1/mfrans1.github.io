@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JetLag, the Lagrangian Jet tracking algorithm"
+title: "JetLag, the Lagrangian jet tracking algorithm"
 permalink: /JetLag/
 author_profile: true
 ---
@@ -28,19 +28,26 @@ JetLag relies on Lagrangian descriptors of the general circulation, hence the na
 
 **Why JetLag?**<br>
 
-Many jet tracking algorithms have been developed in the past, but significant limitations still exist. Generally speaking, existing algorithms:<br>
-* Rely on a large number of climate-based and arbitrary parameters (e.g., wind speed and latitude thresholds) that are optimized manually;
-* Exclude information about the temporal behavior of the jet, focusing on its spatial structure alone;
-* Struggle identifying the subtropical and the polar front jet;
+Many jet tracking algorithms have been developed in the past, but significant limitations still exist:<br>
+* Many algorithms rely on climate-based parameters to detect jet features (e.g. latitude and wind magnitude thresholds, tropopause height gradient). By design, these algorithms cannot be applied to climate studies, and their output is dependent on subjective parameter choices;
 
-JetLag aims to address these limitations by **a)** excluding arbitrary and climatological parameters, **b)** using time-integrated variables to account for the spatial <em>and</em> the temporal behavior of the jet, and **c)** identifying subtropical and polar front jets using an objective labeling algorithm that also does not rely on any arbitrary parameter.<br>
+  _JetLag employs a non-parametric method by defining jet features as Lagrangian coherent structures_
+
+* Existing algorithms do not explicitely include information about the temporal behavior of the jet, relying instead on the spatial behavior of jet features as seen in instantaneous or time-averaged meteorological fields;
+
+  _JetLag uses time-integrated variables to account for the spatial <em>and</em> the temporal behavior of the jets_
+
+* The majority of algorithms are designed to detect either the subtropical jet or the polar front jet, but not both at the same time. Those that do also rely on climate-based parameters to make the distinction;
+
+  _Jetlag can identify subtropical and polar front jets using a non-parametric classification algorithm_
 
 ---
 
 **How does JetLag work?**<br>
 
-The JetLag algorithm uses a Lagrangian descriptor of the general circulation, the 'M function,' which is equal to the length of the Lagrangian parcel trajectory that passes through a given (x,y,z) point, integrated over a chosen integration time interval. Effectively, the only parameter used in JetLag is the width of that time interval, which can be chosen objectively based on the scales of interest. Typical values range from 2 to 5 days.<br>
-In order to avoid relying on arbitrary parameters, JetLag defines the axis of the jets as connected local M function maxima. This ensures that jets are identified that correspond to maxima in atmospheric transport, rather than maxima in wind speeds.<br>
+The JetLag algorithm uses a Lagrangian descriptor of the general circulation, the 'M function', which is defined at any location (x,y,z,t) as the length of the Lagrangian parcel trajectory initiated at (x,y,z,t) and integrated over a chosen time interval {t-$\tau$ ; t+$\tau$}. The only parameter used in JetLag is the half width of that time interval, $\tau$, which can be determined objectively based on the scales of interest; typical values range from 1 to 3 days.<br>
+The M function highlights Lagrangian coherent structures --organizing features of the atmospheric circulation that correspond to maxima in atmospheric transport and that are most robust over the chosen integration interval. JetLag uses these features to locate the axes of the jets, ensuring that jet features are coherent both in space and in time.<br>
+Once jet features are detected, they are classified as part of the subtropical or polar front jet by a non-parametric algorithm that makes use of neighborhood rules to ensure that a) the subtropical jet is located equatorward of the polar front jet, b) the most prominent M function features are prioritized, c) jet segments with the same classification do not significantly overlap along the longitudinal dimension.
 
 ---
 
@@ -48,7 +55,7 @@ In order to avoid relying on arbitrary parameters, JetLag defines the axis of th
 
 We're still working on it, but we expect to release several beta products by August 2022. These products will be based on the MERRA-2 reanalysis and will include:<br>
 
-* A jet segment ('jegment') data set with labeled, non injective subtropical and polar front features;
+* A jet segment data set with labeled, non injective subtropical and polar front features;
 * A jet coordinate data set (injective subtropical and polar front axes)
 
 Other products will be released over time, including products for the ERAi reanalysis and for CMIP6 model runs.<br>
@@ -58,4 +65,4 @@ Contact us (see below) if you are interested in a product that is not available.
 
 **Can I get involved?**<br>
 
-Yes! We'd love to hear your thoughts. You can reach out to us via the mailing list (once you've subscribed, email: jetlag-owner (at) lists (dot) fas (dot) harvard (dot) edu) or directly via my professional email (lrivoire (at) fas (dot) harvard (dot) edu). You can also request that JetLag be applied to a model output or reanalysis or your choosing –we want JetLag to be useful to your specific purposes! Subject to computing constraints and demand, of course.
+Yes! We'd love to hear your thoughts. You can reach out to us via the mailing list (once you've subscribed, email: jetlag-owner (at) lists (dot) fas (dot) harvard (dot) edu) or directly via my professional email (lrivoire (at) fas (dot) harvard (dot) edu). You can request that JetLag be applied to a model output or reanalysis or your choosing –we want JetLag to be useful to your specific purposes! Subject to computing constraints and demand, of course.

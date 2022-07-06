@@ -28,8 +28,9 @@ JetLag relies on Lagrangian descriptors of the general circulation, hence the na
 
 **Why JetLag?**<br>
 
-Many jet tracking algorithms have been developed in the past, but significant limitations still exist:<br>
-* Many algorithms rely on climate-based parameters to detect jet features (e.g. latitude and wind magnitude thresholds, tropopause height gradient). By design, these algorithms cannot be applied to climate studies, and their output is dependent on subjective parameter choices;
+Many jet tracking algorithms have been developed in the past, but significant limitations still exist:
+
+* Most algorithms rely on climate-based parameters to detect jet features (e.g. latitude and wind magnitude thresholds, tropopause height gradient). By design, these algorithms cannot be applied to climate studies, and their output is dependent on subjective parameter choices;
 
   _JetLag employs a non-parametric method by defining jet features as Lagrangian coherent structures_
 
@@ -45,9 +46,11 @@ Many jet tracking algorithms have been developed in the past, but significant li
 
 **How does JetLag work?**<br>
 
-The JetLag algorithm uses a Lagrangian descriptor of the general circulation, the 'M function', which is defined at any location (x,y,z,t) as the length of the Lagrangian parcel trajectory initiated at (x,y,z,t) and integrated over a chosen time interval {t-$\tau$ ; t+$\tau$}. The only parameter used in JetLag is the half width of that time interval, $\tau$, which can be determined objectively based on the scales of interest; typical values range from 1 to 3 days.<br>
-The M function highlights Lagrangian coherent structures --organizing features of the atmospheric circulation that correspond to maxima in atmospheric transport and that are most robust over the chosen integration interval. JetLag uses these features to locate the axes of the jets, ensuring that jet features are coherent both in space and in time.<br>
-Once jet features are detected, they are classified as part of the subtropical or polar front jet by a non-parametric algorithm that makes use of neighborhood rules to ensure that a) the subtropical jet is located equatorward of the polar front jet, b) the most prominent M function features are prioritized, c) jet segments with the same classification do not significantly overlap along the longitudinal dimension.
+The JetLag algorithm uses a Lagrangian descriptor of the general circulation, the 'M function', which is defined at any location (x,y,z,t) as the length of the Lagrangian parcel trajectory initiated at (x,y,z,t) and integrated over a chosen time interval {t-$\tau$ ; t+$\tau$}. The only parameter used in JetLag is the half width of that time interval, $\tau$, which can be determined objectively based on the scales of interest; typical values range from 1 to 3 days.
+
+The M function highlights Lagrangian coherent structures --organizing features of the atmospheric circulation that correspond to maxima in atmospheric transport and that are almost invariant over the chosen integration interval. JetLag uses these features to locate the axes of the jets, ensuring that jet features are coherent both in space and in time.
+
+Once jet features are detected, they are classified as part of the subtropical or the polar front jet by a non-parametric algorithm that makes use of neighborhood rules to ensure that a) the subtropical jet is located equatorward of the polar front jet, b) the most prominent M function features are prioritized, c) jet segments with the same classification do not significantly overlap along the longitudinal dimension.
 
 ---
 

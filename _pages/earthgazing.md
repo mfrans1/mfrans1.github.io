@@ -264,6 +264,16 @@ div.explanation:hover {
     <div id="desc">Red sprites above a thunderstorm (Texas)</div>
   </div>
 </div>
+  
+  <div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/gallery/pileus_china.png">
+      <img src="../images/gallery/pileus_china.png" alt="" width="1200" height="800">
+      <div class="explanation">A pileus cloud photographed above cumulonimbi in southern China</div>
+    </a>
+    <div id="desc">Pileus above thunderstorms (China)</div>
+  </div>
+</div>
 
 <div class="clearfix"></div>
 

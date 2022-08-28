@@ -1,3 +1,16 @@
+---
+layout: archive
+title: ""
+permalink: /Disinformation/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Disinformation, or deliberate misinformation, has a long history dating back over 2000 years. In its early form, disinformation was used to aid military tactics or to sway the public opinion in favor of a cause or against it. Since the 1920s, disinformation has also been used to manipulate enemy nations' intelligence agencies by strategically exposing them to credible but misleading information. Since 2017, the world has witnessed a sharp uptick in disinformation campaigns on an increasingly wide range of topics beyond politics.
 
 Disinformation is now rampant, and whether it is about climate change, elections, vaccines or other conspiracy theories, whether it is spread by state actors, news sources, social media, celebrities or word of mouth, disinformation is affecting our ability to agree even on cold, hard facts. Personally, I find that troubling. Disinformation is designed to promote uncertainty, apathy, distrust, and paranoia, and it affects all of us. Disinformation is also designed to be difficult to spot, but luckily, we can get better at spotting it if we know what to look for.

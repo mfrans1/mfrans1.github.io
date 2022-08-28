@@ -41,7 +41,7 @@ Less benign yet are the known effects of confirmation biases in jury trials, hea
 
 
 
-When interpreting information, our judgment is often affected by many, many other cognitive biases. A comprehensive list can be found [here](https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg). Here are a few more examples of cognitive biases:
+When interpreting information, our judgment is often affected by many, many other cognitive biases. A comprehensive list can be found [here](https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg). Here are a few more examples of cognitive biases (illustrations original, all rights reserved):
 
 MERE EXPOSURE EFFECT (preference for early information)
 

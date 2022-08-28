@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /Disinformation/
+permalink: /disinformation/
 author_profile: true
 ---
 

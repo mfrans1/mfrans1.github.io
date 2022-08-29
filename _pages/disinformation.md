@@ -37,11 +37,11 @@ Less benign yet are the known effects of confirmation biases in jury trials, hea
 
 When interpreting information, our judgment is often affected by many other cognitive biases. Here are a few more examples of cognitive biases (illustrations original, all rights reserved):
 
-MERE EXPOSURE EFFECT (preference for early information)
+MERE-EXPOSURE EFFECT (preference for early information, the basis for advertisement)
 
 ![](../images/mere_exposure_bias.png)
 
-RECENCY BIAS 
+RECENCY BIAS
 
 ![](../images/recency_bias.png)
 

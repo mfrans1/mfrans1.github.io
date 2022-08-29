@@ -50,6 +50,5 @@ GAMBLER'S FALLACY
 ![](../images/gamblers_fallacy.png)
 
 More on cognitive biases:
-| ![cognitive bias codex](../images/Cognitive_bias_codex_en.svg) |
-|:--:|
-| <b>Image Credits - Wikipedia CC BY-SA 4.0</b>|
+![cognitive bias codex](../images/Cognitive_bias_codex_en.svg)
+<b>Image Credits - Wikipedia CC BY-SA 4.0</b>

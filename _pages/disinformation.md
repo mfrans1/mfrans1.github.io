@@ -13,9 +13,7 @@ author_profile: true
 
 Disinformation, or deliberate misinformation, has a long history dating back over 2000 years. In its early form, disinformation was used to aid military tactics or to sway the public opinion in favor of a cause or against it. Since the 1920s, disinformation has also been used to manipulate enemy nations' intelligence agencies by strategically exposing them to credible but misleading information. Since 2017, the world has witnessed a sharp uptick in disinformation campaigns on an increasingly wide range of topics beyond politics.
 
-Disinformation is now rampant, and whether it is about climate change, elections, vaccines or other conspiracy theories, whether it is spread by state actors, news sources, social media, celebrities or word of mouth, disinformation is affecting our ability to agree even on cold, hard facts. Personally, I find that troubling. Disinformation is designed to promote uncertainty, apathy, distrust, and paranoia, and it affects all of us. Disinformation is also designed to be difficult to spot, but luckily, we can get better at spotting it if we know what to look for.
-
-Here are a few common attributes of online disinformation:
+Disinformation is now rampant, and whether it is about climate change, elections, vaccines or other conspiracy theories, whether it is spread by state actors, news sources, social media, celebrities or word of mouth, disinformation is affecting our ability to agree even on cold, hard facts. Personally, I find that troubling. Disinformation is designed to promote uncertainty, apathy, distrust, and paranoia, and it affects all of us. Disinformation is also designed to be difficult to spot, but luckily, we can get better at spotting it if we know what to look for:
 
 -   **Exaggeration**, alarmism based on anecdotes, cherry picking, one-sided arguments, parallels with extreme ideologies, miracle solutions;
 -   **Speculation** ("isn't it weird that...?"), absence of verifiable sources, hearsay, insubstantial statements, reasoning based on unproven or unprovable 'facts';
@@ -37,11 +35,7 @@ A less benign (albeit hilarious) example is the mass delusion known as the “Se
 
 Less benign yet are the known effects of confirmation biases in jury trials, healthcare, job recruitment, and in scientific research at large. Confirmation biases are thought to lead to the persistence of discredited ideas and to the polarization of opinions. The bias is stronger for emotionally charged issues and for deeply entrenched beliefs such as those at the heart of identity-driven controversies.
 
-
-
-
-
-When interpreting information, our judgment is often affected by many, many other cognitive biases. A comprehensive list can be found [here](https://commons.wikimedia.org/wiki/File:Cognitive_bias_codex_en.svg). Here are a few more examples of cognitive biases (illustrations original, all rights reserved):
+When interpreting information, our judgment is often affected by many other cognitive biases. Here are a few more examples of cognitive biases (illustrations original, all rights reserved):
 
 MERE EXPOSURE EFFECT (preference for early information)
 
@@ -55,4 +49,7 @@ GAMBLER'S FALLACY
 
 ![](../images/gamblers_fallacy.png)
 
-
+More on cognitive biases:
+| ![cognitive bias codex](../images/Cognitive_bias_codex_en.svg) |
+|:--:|
+| <b>Image Credits - Wikipedia CC BY-SA 4.0</b>|

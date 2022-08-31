@@ -21,7 +21,7 @@ Disinformation is now rampant, and whether it is about climate change, elections
 -   **Call to emotions** more often negative than positive, fixation on alleged 'scandals' or unusual events;
 -   **Call to distrust** governments and institutions, science and technology, undefined entities ("they") that are said to be lying to/acting against the entire population, call to consider 'mainstream ideas' as inherently wrong.
 
-Disinformation also exploits our cognitive biases to spread more efficiently. The list of cognitive biases is long, and they feed into each other. Here are a few common ones that affect how we perceive information:
+Disinformation also exploits our cognitive biases to spread more efficiently. The list of cognitive biases is long, and they feed into each other. Cognitive biases typically arise when there is too much or too little information, when our memory is involved, and when decisions must be made. Here are a few common biases that affect how we perceive information:
 
 CONFIRMATION BIAS (the M.O.A.B.)
 

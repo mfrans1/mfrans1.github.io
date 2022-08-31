@@ -39,7 +39,7 @@ When interpreting information, our judgment is often affected by many other cogn
 
 MERE-EXPOSURE EFFECT (preference for early information, the basis for advertisement)
 
-![](../images/biases/mere_exposure.png)
+![](../images/biases/exposure.png)
 
 RECENCY BIAS
 
@@ -47,7 +47,7 @@ RECENCY BIAS
 
 GAMBLER'S FALLACY
 
-![](../images/biases/gamblers_fallacy.png)
+![](../images/biases/gamblers.png)
 
 INSENSITIVITY TO SAMPLE SIZE
 

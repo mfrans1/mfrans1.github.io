@@ -23,7 +23,7 @@ Disinformation is now rampant, and whether it is about climate change, elections
 
 Disinformation also exploits cognitive biases to spread more efficiently. Cognitive biases arise from the fact that we do not simply **have** knowledge of the world around us. Rather, our understanding of the world is based on the **interpretation** of what we can observe --our cognition. However, our cognition depends on our emotional state and ability to think critically, and on the quality and completeness of our observations. Our cognition can be biased in many ways, a few of which are illustrated below:
 
-CONFIRMATION BIAS (the M.O.A.B.)
+**CONFIRMATION BIAS** (the M.O.A.B.)
 
 Perhaps linked to a human tendency to seek confirmation over refutation, confirmation bias is ubiquitous. At its most basic, confirmation bias is the tendency to interpret information in a way that favors one's prior beliefs or knowledge:
 
@@ -41,23 +41,23 @@ MERE-EXPOSURE EFFECT (preference for early information, the basis for advertisem
 
 ![](../images/biases/exposure.png)
 
-RECENCY BIAS
+**RECENCY BIAS**
 
 ![](../images/biases/recency.png)
 
-GAMBLER'S FALLACY
+**GAMBLER'S FALLACY**
 
 ![](../images/biases/gamblers.png)
 
-INSENSITIVITY TO SAMPLE SIZE
+**INSENSITIVITY TO SAMPLE SIZE**
 
 ![](../images/biases/sample_size.png)
 
-ANCHORING BIAS
+**ANCHORING BIAS**
 
 ![](../images/biases/anchoring.png)
 
-SURVIVORSHIP BIAS
+**SURVIVORSHIP BIAS**
 
 ![](../images/biases/survivorship.png)
 

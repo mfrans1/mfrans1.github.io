@@ -27,7 +27,7 @@ CONFIRMATION BIAS (the M.O.A.B.)
 
 Perhaps linked to a human tendency to seek confirmation over refutation, confirmation bias is ubiquitous. At its most basic, confirmation bias is the tendency to interpret information in a way that favors one's prior beliefs or knowledge:
 
-![](../images/confirmation_bias.png)
+![](../images/biases/confirmation_bias.png)
 
 A benign example is cloud watching and trying to spot a shape that someone else described for us (let’s say a whale); we might very well find said shape, but without the other person’s description it is likely that we would have interpreted the cloud as a different shape.
 
@@ -39,20 +39,20 @@ When interpreting information, our judgment is often affected by many other cogn
 
 MERE-EXPOSURE EFFECT (preference for early information, the basis for advertisement)
 
-![](../images/mere_exposure_bias.png)
+![](../images/biases/mere_exposure_bias.png)
 
 RECENCY BIAS
 
-![](../images/recency_bias.png)
+![](../images/biases/recency_bias.png)
 
 GAMBLER'S FALLACY
 
-![](../images/gamblers_fallacy.png)
+![](../images/biases/gamblers_fallacy.png)
 
 INSENSITIVITY TO SAMPLE SIZE
 
-![](../images/sample_size.png)
+![](../images/biases/sample_size.png)
 
 More on cognitive biases:
-![cognitive bias codex](../images/Cognitive_bias_codex_en.svg)
+![cognitive bias codex](../images/biases/Cognitive_bias_codex_en.svg)
 <b>Image Credits - Wikipedia CC BY-SA 4.0</b>

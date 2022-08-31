@@ -57,6 +57,10 @@ ANCHORING BIAS
 
 ![](../images/biases/anchoring.png)
 
+SURVIVORSHIP BIAS
+
+![](../images/biases/survivorship.png)
+
 More on cognitive biases:
 ![cognitive bias codex](../images/biases/Cognitive_bias_codex_en.svg)
 <b>Image Credits - Wikipedia CC BY-SA 4.0</b>

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV on request.
+Full CV available upon request.
 
 Education
 ======

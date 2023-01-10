@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV on request
+
 Education
 ======
 Ph.D in Atmospheric Science, Colorado State University, 2020

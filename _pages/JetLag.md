@@ -56,10 +56,7 @@ Once jet features are detected, they are classified as part of the subtropical o
 
 **What will JetLag provide?**<br>
 
-We're still working on it, but we expect to release several beta products by Fall 2022. These products will be based on the MERRA-2 reanalysis and will include:<br>
-
-* A jet segment data set with labeled, non injective subtropical and polar front features;
-* A jet coordinate data set (injective subtropical and polar front axes)
+We're still working on it, but we expect to release several beta products in Spring 2023. These products will be based on the MERRA-2/ERA5 reanalyses and will include a jet segment data set with labeled subtropical and polar front features.
 
 Other products will be released over time, including products for the ERAi reanalysis and for CMIP6 model runs.<br>
 Contact us (see below) if you are interested in a product that is not available.<br>

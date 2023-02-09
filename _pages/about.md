@@ -206,10 +206,10 @@ div.textarea {
   </div>
 </div>
 
-<div class="textarea">I am primarily interested in the influence of the upper troposphere and lower stratosphere on global warming,
-extreme weather, and human/ecosystem health. For instance, as the Earth continues to warm, the behavior of the jet streams changes, affecting the transport of stratospheric ozone into the boundary layer, the location of tropical cyclone landfalls, and the intensity of the stratospheric circulation. My work is driven by applications in atmospheric composition and air quality, agricultural yield and food safety, and flood and extreme weather risk. 
-
-In all my research projects I strive to develop objective methods that can be applied for the analysis of the atmosphere regardless of the state of the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate, with applications in new satellite development.
+<div class="textarea">I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate. <!--For instance, as the Earth continues to warm, the behavior of the jet streams changes, affecting the transport of stratospheric ozone into the boundary layer, the location of tropical cyclone landfalls, and the intensity of the stratospheric circulation.-->
+</div>
+My work is driven by applications in atmospheric composition, air quality, and hurricane risk.
+<!--In all my research projects I strive to develop objective methods that can be applied for the analysis of the atmosphere regardless of the state of the climate. 
 </div>
 
 <!--The Earth is a wonder of beauty and complexity, and I like spending time <a href="https://lrivoire.github.io/earthgazing/">Earthgazing</a>. I also like talking about science with nonscientists, and my <a href="https://lrivoire.github.io/illustrated_science/">Illustrated science</a> project (coming soon) aims to make my research more accessible to all.-->

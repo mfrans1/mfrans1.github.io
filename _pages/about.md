@@ -206,7 +206,7 @@ div.textarea {
   </div>
 </div>
 
-<div class="textarea">I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate. <br><br>--> <!--For instance, as the Earth continues to warm, the behavior of the jet streams changes, affecting the transport of stratospheric ozone into the boundary layer, the location of tropical cyclone landfalls, and the intensity of the stratospheric circulation.-->
+<div class="textarea">I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate. <br><br> <!--For instance, as the Earth continues to warm, the behavior of the jet streams changes, affecting the transport of stratospheric ozone into the boundary layer, the location of tropical cyclone landfalls, and the intensity of the stratospheric circulation.-->
 My work is driven by applications in atmospheric composition, air quality, and hurricane risk.
  </div>
 <!--In all my research projects I strive to develop objective methods that can be applied for the analysis of the atmosphere regardless of the state of the climate. 

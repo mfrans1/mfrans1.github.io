@@ -21,7 +21,7 @@ Sign up for the [JetLag mailing list](https://web.lists.fas.harvard.edu/mailman/
 
 **What is JetLag?**<br>
 
-JetLag is a jet tracking algorithm developed at Harvard University, in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) at Universitat Politècnica de Catalunya.<br>
+JetLag is a jet tracking algorithm developed in collaboration with [Dr. Jezabel Curbelo](https://web.mat.upc.edu/jezabel.curbelo/) at Universitat Politècnica de Catalunya.<br>
 JetLag relies on Lagrangian descriptors of the general circulation, hence the name.
 
 ---
@@ -46,7 +46,7 @@ Many jet tracking algorithms have been developed in the past, but significant li
 
 **How does JetLag work?**<br>
 
-The JetLag algorithm uses a Lagrangian descriptor of the general circulation, the 'M function', which is defined at any location (x,y,z,t) as the length of the Lagrangian parcel trajectory initiated at (x,y,z,t) and integrated over a chosen time interval {t-$\tau$ ; t+$\tau$}. The only parameter used in JetLag is the half width of that time interval, $\tau$, which can be determined objectively based on the scales of interest; typical values range from 1 to 3 days.
+The JetLag algorithm uses a Lagrangian descriptor of the general circulation, the 'M function', which is defined at any location (x,y,z,t) as the length of the Lagrangian parcel trajectory initiated at (x,y,z,t) and integrated over a chosen time interval {t-$\tau$ ; t+$\tau$}. The only parameter used in JetLag is the half width of that time interval, $\tau$, which can be determined objectively based on the scales of interest.
 
 The M function highlights Lagrangian coherent structures --organizing features of the atmospheric circulation that correspond to maxima in atmospheric transport and that are almost invariant over the chosen integration interval. JetLag uses these features to locate the axes of the jets, ensuring that jet features are coherent both in space and in time.
 
@@ -56,13 +56,13 @@ Once jet features are detected, they are classified as part of the subtropical o
 
 **What will JetLag provide?**<br>
 
-We're still working on it, but we expect to release an ERA5-based beta product in Fall 2023.
+We're still working on it, but we expect to release an ERA5-based beta product in Spring 2024.
 
-Other products will be released over time, including products for the ERAi reanalysis and for CMIP6 model runs.<br>
+Other products will be released over time, including products for CMIP6 model runs.<br>
 Contact us (see below) if you are interested in a product that is not available.<br>
 
 ---
 
 **Can I get involved?**<br>
 
-Yes! We'd love to hear your thoughts. You can reach out to us via the mailing list (once you've subscribed, email: jetlag-owner (at) lists (dot) fas (dot) harvard (dot) edu) or directly via my professional email (lrivoire (at) fas (dot) harvard (dot) edu). You can request that JetLag be applied to a model output or reanalysis or your choosing –we want JetLag to be useful to your specific purposes! Subject to computing constraints and demand, of course.
+Yes! We'd love to hear your thoughts. You can reach out to us via the mailing list (once you've subscribed, email: jetlag-owner (at) lists (dot) fas (dot) harvard (dot) edu) or directly via my professional email (lrivoire (at) mit (dot) edu). You can request that JetLag be applied to a model output or reanalysis or your choosing –we want JetLag to be useful to your specific purposes! Subject to computing constraints and demand, of course.

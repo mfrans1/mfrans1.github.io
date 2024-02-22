@@ -24,6 +24,7 @@ A variety of gases and particulates are transported on large scales by the atmos
 ![ ](../images/toe.png)
 
 The planet is [warming](https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature), but certain detailed aspects of the consequences of this warming remain difficult to assess. The primary reasons for this are simple:
+
 1) The climate system is full of random noise, and it is sometimes difficult to separate the signal from the noise;
 2) Our observations of the climate system are far from perfect -- they have gaps, biases, and their quality changes over time.
 

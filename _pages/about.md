@@ -184,12 +184,14 @@ div.textarea {
 </head>
 <body>
   
-<h1>Hi! My name is Louis, I am an atmospheric scientist.</h1>
-  
+<h1>Hi! I'm Louis, an atmospheric scientist</h1>
 <div class="container">
+  <img src="../images/STJ_website.gif" alt="wind magnitude" class="image">
+</div>
+<!--<div class="container">
   <img src="../images/landingpagebackground.jpg" alt="wind magnitude" class="image">
 <!-- <div class="text">hover me</div> -->
-  <div class="overlay">
+<!--  <div class="overlay">
     <img src="../images/landingpagefront.gif" alt="wind vectors" class="image">
   </div>
   <div class="irma">

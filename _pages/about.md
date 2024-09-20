@@ -208,10 +208,9 @@ div.textarea {
   </div>
 </div>
 
-<div class="textarea">I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate. <!--For instance, as the Earth continues to warm, the behavior of the jet streams changes, affecting the transport of stratospheric ozone into the boundary layer, the location of tropical cyclone landfalls, and the intensity of the stratospheric circulation.My work is driven by applications in atmospheric composition, air quality, and hurricane risk.-->
+I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate. <!--For instance, as the Earth continues to warm, the behavior of the jet streams changes, affecting the transport of stratospheric ozone into the boundary layer, the location of tropical cyclone landfalls, and the intensity of the stratospheric circulation.My work is driven by applications in atmospheric composition, air quality, and hurricane risk.-->
 I work as a Postdoctoral Associate with
 <span style="white-space:nowrap"><a href="https://www.teampaccc.mit.edu/">Dr. Arlene Fiore</a></span> at MIT's department of Earth, Atmospheric and Planetary Sciences.
-</div>
 </body>
 </html>
 <!--In all my research projects I strive to develop objective methods that can be applied for the analysis of the atmosphere regardless of the state of the climate. -->

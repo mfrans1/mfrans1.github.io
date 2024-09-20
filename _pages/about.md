@@ -186,7 +186,7 @@ div.textarea {
   
 <h1>Hi! I'm Louis, an atmospheric scientist</h1>
 <div class="container">
-  <img src="../images/STJ_website.gif" alt="wind magnitude" class="image">
+  <img src="../images/STJ_website.gif" alt="wind magnitude" class="image" style="width: 80%;">
 </div>
 <!--<div class="container">
   <img src="../images/landingpagebackground.jpg" alt="wind magnitude" class="image">

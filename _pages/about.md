@@ -11,7 +11,7 @@ redirect_from:
 # Hi! I'm Louis, an atmospheric scientist
 
 <div style="text-align: center;">
-  <img src="../images/STJ_website.gif" alt="wind magnitude" style="width:75%;">
+  <img src="../images/STJ_website.gif" alt="" style="width:75%;">
 </div>
 
 <div style="text-align: center;">

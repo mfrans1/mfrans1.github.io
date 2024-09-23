@@ -10,8 +10,13 @@ redirect_from:
 
 # Hi! I'm Louis, an atmospheric scientist
 
-<img src="../images/STJ_website.gif" alt="wind magnitude" style="width:50%;">
+<div style="text-align: center;">
+  <img src="../images/STJ_website.gif" alt="wind magnitude" style="width:75%;">
+</div>
 
-I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate. 
+<div style="text-align: center;">
+  I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate.
+  <br><br>
+  I work as a Postdoctoral Associate with [Dr. Arlene Fiore](https://www.teampaccc.mit.edu/) at MIT's department of Earth, Atmospheric and Planetary Sciences, and [Dr. Sebastian Eastham](https://profiles.imperial.ac.uk/s.eastham) at Imperial College London.
+</div>
 
-I work as a Postdoctoral Associate with [Dr. Arlene Fiore](https://www.teampaccc.mit.edu/) at MIT's department of Earth, Atmospheric and Planetary Sciences, and [Dr. Sebastian Eastham](https://profiles.imperial.ac.uk/s.eastham) at Imperial College London.

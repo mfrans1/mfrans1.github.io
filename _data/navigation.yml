@@ -5,3 +5,6 @@ main:
     
   - title: "Research"
     url: /research/
+
+  - title: "Beyond Research"
+    url: /beyond_research/

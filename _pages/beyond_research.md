@@ -11,6 +11,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### McGill Student Council
+## McGill Student Council
+Description of aossum
 
-### aCADemy, learning computer aided design
+## aCADemy, learning computer aided design
+description of academy

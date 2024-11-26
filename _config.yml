@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Louis Rivoire"
+title                    : "Mees Franssen"
 title_separator          : "-"
-name                     : &name "Louis Rivoire"
-description              : &description "Louis Rivoire's webpage"
-url                      : https://lrivoire.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mees Franssen"
+description              : &description "Mees Franssen's webpage"
+url                      : https://mfrans1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/lrivoire.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Louis Rivoire"
+  name             : "Mees Franssen"
   avatar           : "bio-pic.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "Cambridge, MA"
-  employer         : "MIT"
+  bio              : "Atmospheric Scientist"
+  location         : "Montreal, Canada"
+  employer         : "McGill"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=nmEECtQAAAAJ&hl=en&oi=ao"
-  email            : "lrivoire@mit.edu"
-  researchgate     : "https://www.researchgate.net/profile/Louis_Rivoire"
+  googlescholar    :
+  email            : "mees.franssen@mail.mcgill.ca"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3030-7922"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@hurricane_louis"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

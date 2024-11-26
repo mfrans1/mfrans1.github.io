@@ -15,15 +15,18 @@ Education
 ======
 B.S. in Atmopspheric and Oceanic Sciences, McGill Univeristy, 2024
 
+Honors and Awards
+======
+Mount Washington Summit Observatory Internship Award, 2024
+
+Rubin Gruber Science Undergraduate Research Award, 2022
+
+Tomlinson Engagement Award for Mentoring, 2022
+  
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+Schmedding R., Franssen M., Zuend A. (2024, submitted to ACS ES&T): A Machine Learning Approach for
+Predicting the Pure-Component Surface Tension of Atmospherically Relevant Organic Compounds.
+
   

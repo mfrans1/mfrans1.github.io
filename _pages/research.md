@@ -12,6 +12,7 @@ author_profile: true
 {% endfor %}
 
 ### Global Climate Modelling
+![](../images/dCF.png)
 Investigating [CESM2.1.5](https://www.cesm.ucar.edu/models/cesm2) sensitivity to ice-nucleation parameterization schemes. After independently porting the CESM2.1.5 on the ComputeCanada Narval cluster, I implemented source code changes to the atmosphere model (CAM6), to use novel ice-nucleation schemes. I conducted comparison tests between generations of ice-nucleation schemes, using model runs nudged to [MERRA2](https://gmao.gsfc.nasa.gov/reanalysis/merra-2/) reanalysis data, comparing changes in cloud fraction and surface-temperature.
 
 ---

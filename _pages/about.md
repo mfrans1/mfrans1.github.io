@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-# Hi! I'm Louis, an atmospheric scientist
+# I'm Mees, an atmospheric scientist
 
-<div style="text-align: center;">
-  <img src="../images/STJ_website_trippy.gif" alt="" style="width:75%;">
-</div>
 
 <div style="text-align: left;">
-  I am primarily interested in the role of the upper troposphere and lower stratosphere in the climate. I also work to understand how sampling biases and observational uncertainties affect our understanding of the climate.
+  My primary research interests are atmospheric dynamics, particularly when it comes to tropical cyclones and climate change
   <br><br>
-  I work as a Postdoctoral Associate with <a href="https://www.teampaccc.mit.edu/">Dr. Arlene Fiore</a> at MIT, and <a href="https://profiles.imperial.ac.uk/s.eastham">Dr. Sebastian Eastham</a> at Imperial College London.
+  I'm a recent graduate from McGill University, where I got my BSc. in Atmospheric and Oceanic Sciences.
 </div>
 

@@ -17,6 +17,7 @@ Investigating [CESM2.1.5](https://www.cesm.ucar.edu/models/cesm2) sensitivity to
 ---
 
 ### Climatological Analaysis
+![](../images/700hPa_surface_windroses.png)
 Research assistantship was supplementary to the [TEAMx field campaign](https://doi.org/10.1175/bams-d-21-0232.1). I produced a full climatological analysis of the Monte Baldo region of Italy, applying a swath of observational and reanalysis data products. Key achievements of the analysis was a establishment of wind patterns that helped plan TEAMx anemometer locations. In addition to this analysis, I also conducted a preliminary investigation into the coupling of air quality in Monte Baldo and diurnal wind patterns. Leveraging fourier methods to produce coherence and phase spectra, I was able to illustrate plausible aerosol transport from the neighboring polluted urban center Vernona up to the (relatively) pristine Monte Baldo.
 
 ---

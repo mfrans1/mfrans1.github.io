@@ -13,11 +13,7 @@ Download my [CV](/files/CV.pdf) (most up to date information).
 
 Education
 ======
-Ph.D in Atmospheric Science, Colorado State University, 2020
-
-M.S. in Ocean, Atmosphere, and Climate Studies, Pierre and Marie Curie University, 2015
-
-B.S. in Earth Science, Ecole Normale Supérieure, 2013
+B.S. in Atmopspheric and Oceanic Sciences, McGill Univeristy, 2024
 
 Publications
 ======

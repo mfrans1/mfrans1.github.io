@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV](/files/CV.pdf) (most up to date information).
+Download my [CV](/files/Resume_V4.pdf) (most up to date information).
 
 Education
 ======
+M.S. in Earth Science and Engineering, Imperial College London, 2025
 B.S. in Atmopspheric and Oceanic Sciences, McGill Univeristy, 2024
 
 Honors and Awards
@@ -26,8 +27,7 @@ Tomlinson Engagement Award for Mentoring, 2022
 Publications
 ======
 
-Schmedding R., Franssen M., Zuend A. (2024, submitted to ACS ES&T): A Machine Learning Approach for
-Predicting the Pure-Component Surface Tension of Atmospherically Relevant Organic Compounds.
+Schmedding R., Franssen M., Zuend A. (2025): A Machine Learning Approach for Predicting the PureComponent Surface Tension of Atmospherically Relevant Organic Compounds. ACS ES&T Air, https://doi.org/10.1021/acsestair.4c00291
 
 Teaching
 ======

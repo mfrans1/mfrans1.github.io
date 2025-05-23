@@ -12,7 +12,7 @@ redirect_from:
 
 
 <div style="text-align: left;">
-  My primary research interests are atmospheric dynamics, particularly when it comes to tropical cyclones and climate change. This website showcases some of my research, projects, or anything else I want to share with the world. 
+I love bringing together data science and climate. This website showcases some of my research, projects, or anything else I want to share with the world.
 </div>
 
 <div style="text-align: center;">

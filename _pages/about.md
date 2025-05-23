@@ -16,5 +16,5 @@ I love bringing together data science and climate. This website showcases some o
 </div>
 
 <div style="text-align: center;">
-  <img src="../images/transport.png" alt="" style="width:100%;">
+  <img src="../files/cover_timelapse.mov" alt="" style="width:100%;">
 </div>

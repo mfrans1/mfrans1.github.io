@@ -13,7 +13,7 @@ author_profile: true
 
 ## Science Outreach and Communication
 <div style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=h148BdeVuK4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h148BdeVuK4?si=IGl-vk8ucjifIaEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 During my time at the Mount Washington Observatory, I had to opportunity engage with numer science outreach and communication opportunities. I gained experience in radio broadcasting with [WDEV Radio Vermont](https://wdevradio.com/) as well as [New Hampshire Public Radio](https://www.nhpr.org/), releasing 48-hour state wide weather forecasts for both Vermont and New Hampshire. I also got the opportunity to present at MWOBS Science in the Mountains, a year-round free web-based lecture series (linked above). I, along with my colleague intern, presented our project: A climatology of Solid-to-Liquid Ratio on the Summit of Mount Washington (1980-2024).
 

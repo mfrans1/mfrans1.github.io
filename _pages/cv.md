@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV](/files/Resume__V5_.pdf) (most up to date information).
+Download my [CV](../files/Resume__V5_.pdf) (most up to date information).
 
 Education
 ======

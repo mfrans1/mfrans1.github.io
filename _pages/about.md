@@ -11,7 +11,7 @@ redirect_from:
 # I'm Mees, an environmental data scientist
 
 <div style="text-align: left;">
-I love bringing together data science and climate. This website showcases some of my research, projects, or anything else I want to share with the world. 
+I love bringing together data science and climate. This website showcases some of my research, projects, or anything else I want to share with the world. Whether its field work, machine learning, or high-performance computing; I love it all. Enjoy looking around the website and what I have been up to. 
 </div>
 
 <div style="text-align: center;">

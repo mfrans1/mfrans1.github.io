@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# I'm Mees, an atmospheric scientist
-
+# I'm Mees, an environmental data scientist
 
 <div style="text-align: left;">
-I love bringing together data science and climate. This website showcases some of my research, projects, or anything else I want to share with the world.
+I love bringing together data science and climate. This website showcases some of my research, projects, or anything else I want to share with the world. 
 </div>
 
 <div style="text-align: center;">
-  <img src="../files/cover_timelapse.mov" alt="" style="width:100%;">
+  <video controls autoplay muted loop style="width:100%;">
+    <source src="../files/cover_timelapse.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>

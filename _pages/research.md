@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 
 ## Climatology of Alpine Snow
-![](../files/slr_clim.png)
+![](../files/EasterSnowCon_SLR_Poster.jpeg)
 Investigated Solid-to-Liquid Ratio for snow on the summit of Mount Washington to supplement an ongoing research project at the [Mount Washington Observatory](https://mountwashington.org/research/current-research-projects/solid-to-liquid-ratio-analysis/) (for contribution, see 2025 presentation). Produced a climatological analysis of SLR for Mount Washington from 1980-2024, as well as an analysis of summit winds and temperatures. Results from this project will be presented at the 2025 Eastern Snow Conference in Syracuse NY. 
 
 ---

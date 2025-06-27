@@ -26,7 +26,7 @@ Observations show that the Arctic is warming up to 4 times faster than the globa
 
 ---
 
-# Climatological Analaysis
+# Climatological Analysis
 This research assistantship was supplementary to the [TEAMx field campaign](https://doi.org/10.1175/bams-d-21-0232.1) and was generously funded by the Rubin Gruber Science Undergraduate Research Award. Aimed at improving understanding the orographic (mountainous) contributions to weather and climate in central and southern Europe, my contribution concentrated on the Monte Baldo region of Italy. I produced a full climatological analysis of the Monte Baldo region, applying a swath of observational and reanalysis data products including 40 years of ERA5 reanalysis data. Key achievements of the analysis was a establishment of wind patterns that helped plan TEAMx anemometer locations as field sites. In addition to this analysis, I also conducted a preliminary investigation into the coupling of air quality in Monte Baldo and diurnal wind patterns. Leveraging fourier methods to produce coherence and phase spectra, I was able to illustrate plausible aerosol transport from the neighboring polluted urban center Vernona up to the (relatively) pristine Monte Baldo. 
 
 ---

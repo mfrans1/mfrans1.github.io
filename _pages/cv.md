@@ -13,9 +13,9 @@ Download my [CV](../files/Resume__V5_.pdf) (most up to date information).
 
 Education
 ======
-M.S. in Earth Science and Engineering, Imperial College London, 2025-2026
+M.S. in Environmental Data Science and Machine Learning, Imperial College London, 2025-2026
 
-B.S. in Atmopspheric and Oceanic Sciences, McGill Univeristy, 2024
+B.S. in Atmospheric and Oceanic Sciences, McGill Univeristy, 2024
 
 Honors and Awards
 ======

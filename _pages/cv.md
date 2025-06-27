@@ -28,9 +28,9 @@ Tomlinson Engagement Award for Mentoring, 2022
 Posters and Publications
 ======
 
-Franssen M., MacDonald M.: A Climatology of Solid-to-Liquid Ratio on Mount Washington (1980-2024). Eastern Snow Conference. June 10-12 2025, Syracuse NY.
+Franssen M., MacDonald M.: A Climatology of Solid-to-Liquid Ratio on Mount Washington (1980-2024). Eastern Snow Conference. June 10-12 2025, Syracuse NY. [PDF](../files/EasternSnowCon_SLR_Poster.pdf)
 
-Schmedding R., Franssen M., Zuend A. (2025): A Machine Learning Approach for Predicting the PureComponent Surface Tension of Atmospherically Relevant Organic Compounds. ACS ES&T Air, https://doi.org/10.1021/acsestair.4c00291 [PDF](/files/schmedding-franssen-zuend-ml.pdf)
+Schmedding R., Franssen M., Zuend A. (2025): A Machine Learning Approach for Predicting the PureComponent Surface Tension of Atmospherically Relevant Organic Compounds. ACS ES&T Air, https://doi.org/10.1021/acsestair.4c00291 [PDF](../files/schmedding-franssen-zuend-ml.pdf)
 
 Teaching
 ======

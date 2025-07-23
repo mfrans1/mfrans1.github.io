@@ -15,4 +15,4 @@ This is a collection of personal and volunteer projects that I’ve completed ou
 
 ## Benzie Conservation District Volunteer Data Science Project
 
-COME BACK LATER, this page is undergoing maintenance
+<iframe src="../files/connections.html" width="100%" height="600" style="border:none;"></iframe>

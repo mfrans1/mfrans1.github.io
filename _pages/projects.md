@@ -36,7 +36,7 @@ We count the number of times each transition happens across all storms. For exam
 
 Then for each starting cell, we divide by the total number of transitions leaving that cell. This gives us the probability of moving from one cell to another. For instance:
 - From **A**, the probability to go to **B** = 10 / (10+5) = 0.67
-- 
+  
 #### Transition matrix
 All of these probabilities are stored in a square matrix, where:
 - Rows = current cell

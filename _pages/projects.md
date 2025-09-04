@@ -38,5 +38,6 @@ Invasive species pose a serious threat to freshwater ecosystems, yet the state o
 </figure>
 
 ## MNIST Image Classifier from scratch
+![](../files/tile.png)
 MNIST (Modified National Institute of Standards and Technology dataset) is a widely-used collection of 60,000 grayscale, 28x28-pixel images of handwritten digits (0-9), serving as a standard benchmark for training and testing image processing and machine learning algorithms. This project developed a simple 2-layer neural network, with input layer of 784 (corresponding to the 28x28 pixels), the second layer $a^{[1]}$ consisting of 20 units with $tanh$ activation. And the final output layer $a^{[2]}$ with 10 units with softmax activation to correspond to the number 0-9 that we are predicting. All the functions applied throughout this entire project were written myself using numpy, no external libraries were used. Detailed steps explaining forward propagation, backward propagation, and parameter adjustment are found on the github repo for this project. The model was able to predict the test dataset with 86.4\% accuracy. 
 

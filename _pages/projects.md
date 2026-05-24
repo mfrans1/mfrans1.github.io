@@ -16,7 +16,7 @@ This is a collection of personal and volunteer projects that I’ve completed ou
 ## Navier Stokes Solver and Distributed Memory Parallelization
 <figure style="text-align: center;">
   <video controls autoplay muted loop style="width:100%; max-width: 800px;">
-    <source src="../files/tracers_vort.mp4" type="video/mp4">
+    <source src="../files/tracers_vort.MP4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption style="margin-top: 8px; font-style: italic; color: #555;">

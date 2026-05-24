@@ -13,6 +13,18 @@ author_profile: true
 
 This is a collection of personal and volunteer projects that I’ve completed outside of formal research settings. Unlike the work featured in the Research section, these projects were not supervised or funded, nor were they conducted for academic credit. Instead, they reflect my own curiosity and drive to apply and expand my skills in data science through self-directed challenges and hands-on learning. If any of these projects interest you, I recommend looking at the github repos for more detail. 
 
+## Navier Stokes Solver and Distributed Memory Parallelization
+<figure style="text-align: center;">
+  <video controls autoplay muted loop style="width:100%; max-width: 800px;">
+    <source src="../files/tracers_vort.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="margin-top: 8px; font-style: italic; color: #555;">
+    Simulation of a Microfluidic device. Left boundary is an inlet with a fixed pressure differential, right bottom half is an outlet, all other boundaries are walls. Vorticity field is illustrated. Flow is initialized with lagrangian tracers. 
+  </figcaption>
+</figure>
+Built a parallel Navier-Stokes solver in C++ using MPI from scratch (no helper libraries, no MPI_Cart_create shortcuts) using domain decomposition and point-to-point communications implemented by hand. The solver uses a pressure projection method: at each timestep, an intermediate velocity field is computed, the pressure Poisson equation is solved iteratively via Jacobi relaxation, and the velocities are corrected. The tricky part is doing this across a distributed domain as every Jacobi iteration requires boundary values from neighbouring processes, so non-blocking communications are overlapped with interior calculations to hide latency. The domain decomposition is self-optimising, the grid is divided into sub-domains as close to square as possible to minimise the boundary-to-area ratio and reduce communication overhead. Periodic boundary conditions are handled across process boundaries, including the edge case where the periodic neighbour lands on the same process. Tracer particles are stored as a double-linked list rather than a fixed array. As particles advect across MPI boundaries and ownership transfers between processes, nodes can be inserted and deleted in O(1) without reshuffling memory. The communication procedure serialises the relevant list nodes, ships them to the neighbouring process, and reconstructs them on the other side. Code was validated and scaled using HPC clusters. 
+
 ## Monte Carlo Hurricane Track Model with Markov Chains
 <figure style="text-align: center;">
   <video controls autoplay muted loop style="width:100%; max-width: 800px;">

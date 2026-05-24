@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# I'm Mees, an environmental data scientist
+# I'm Mees, a computational climate physicist
 
 <div style="text-align: left;">
-I love bringing together data science and climate. This website showcases some of my research, projects, or anything else I want to share with the world. Whether its field work, machine learning, or high-performance computing; I love it all. Enjoy looking around the website and what I have been up to. 
+I'm a computational physicist who gets excited about hard geophysical problems; the kind where the thing you want to know is buried behind indirect measurements and the only way through is clever physics and a lot of compute.
+
+My work lives somewhere between the atmosphere and the algorithm. Right now that means building Bayesian inversion frameworks for satellite ammonia retrievals at TNO, convincing instruments that were never designed for the job to tell you something useful anyway. Previously: parallel climate models on national supercomputers, hurricane simulators, aerosol chemistry with machine learning.
+
+MSc at Imperial College London, BSc from McGill. Two publications. Have a look around!
+Have a look around.
 </div>
 
 <figure style="text-align: center;">

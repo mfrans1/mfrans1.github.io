@@ -11,7 +11,7 @@ redirect_from:
 # I'm Mees, a computational climate physicist
 
 <div style="text-align: left;">
-I'm a computational physicist who gets excited about hard geophysical problems; the kind where the thing you want to know is buried behind indirect measurements and the only way through is clever physics and a lot of compute. Right now that means building Bayesian inversion frameworks for satellite ammonia retrievals at TNO, getting Thermal Infrared (TIR) band sensors that were never designed for the job to tell you something useful anyway. Previously: parallel climate models on HPC, hurricane simulators, aerosol chemistry with machine learning, operational meteorology. MSc from Imperial College London, BSc from McGill. Two publications. Have a look around!
+I like hard geophysical inverse problems. Right now that means a bayesian optimal estimator framework for short wave infrared satellite retrievals of trace gases like ammonia. But in the past it's included paleontological tomography, wind energy optimization, snow density forecasting, and invasive species management. Bridging the gap between observations and modelling is my thing, always interested in having a conversation!
 </div>
 
 <figure style="text-align: center;">

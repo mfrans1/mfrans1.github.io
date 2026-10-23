@@ -13,6 +13,15 @@ author_profile: true
 
 This is a collection of personal and volunteer projects that I’ve completed outside of formal research settings. Unlike the work featured in the Research section, these projects were not supervised or funded, nor were they conducted for academic credit. Instead, they reflect my own curiosity and drive to apply and expand my skills in data science through self-directed challenges and hands-on learning. If any of these projects interest you, I recommend looking at the github repos for more detail. 
 
+## VloeiStof - Python based Navier Stokes Tool
+VloeiStof is dutch for "fluid".
+
+Working with big CFD codes is a lot, steep learning curve and expensive to run. The idea of VloeiStof is to have a python based rapid prototyping tool. It solves the 2D incompressible navier stokes equations using Chorins projection methon. It uses a standard scientific python tech-stack, making it feel pretty familiar for most people. Check it out on my github! 
+![](../images/microfluidic_device_design.png)
+Imagine we are designing a mirofluidic device like the one above. VloeiStof lets use simulate how fluid would flow through its geometry. Flow analysis estimates error aroudn 1.23%! Pretty good for a lightweight tool! [Check out the repo!](https://github.com/mfrans1/VloeiStof)
+![](../images/microfluidic_device_solution.png)
+
+
 ## Navier Stokes Solver and Distributed Memory Parallelization
 <figure style="text-align: center;">
   <video controls autoplay muted loop style="width:100%; max-width: 800px;">
@@ -50,9 +59,4 @@ Invasive species pose a serious threat to freshwater ecosystems, yet the state o
     Map illustrating frequent recreational boater and angler pathways (>3 occurances) between regional lakes in Northern Michigan. 
   </figcaption>
 </figure> 
-
-## MNIST Image Classifier Neural Network - No External Libraries/Packages
-![](../files/tile.png)
-MNIST (Modified National Institute of Standards and Technology dataset) is a widely-used collection of 60,000 grayscale, 28x28-pixel images of handwritten digits (0-9), serving as a standard benchmark for training and testing image processing and machine learning algorithms. This project developed a simple 2-layer neural network, with input layer of 784 (corresponding to the 28x28 pixels), the second layer $a^{[1]}$ consisting of 20 units with $tanh$ activation. And the final output layer $a^{[2]}$ with 10 units with softmax activation to correspond to the number 0-9 that we are predicting. All the functions applied throughout this entire project were written myself using numpy, no external libraries were used. Detailed steps explaining forward propagation, backward propagation, and parameter adjustment are found on the github repo for this project. The model was able to predict the test dataset with 86.4% accuracy. 
-
 
